@@ -1,25 +1,6 @@
 import pandas as pd
 import traceback
 from pathlib import Path
-from .map import antimicrobial, assembly_qc, reduce_dataframe, taxonomic_assignment
-from .parse import (
-    parse_all_outputs,
-    parse_tsv,
-    parse_bakta_txt,
-    parse_mash_winning_sorted_tab,
-    parse_fasta,
-)
-
-
-parsers = {
-    "abritamr": parse_tsv,
-    "bakta": parse_bakta_txt,
-    "checkm": parse_tsv,
-    "mash": parse_mash_winning_sorted_tab,
-    "mlst": parse_tsv,
-    "shovill": parse_fasta,
-    "sylph": parse_tsv,
-}
 
 
 if "snakemake" in globals():
@@ -27,6 +8,24 @@ if "snakemake" in globals():
     with open(log_fp, "w") as log:
         try:
             log.write("Starting summary script\n")
+            from .map import antimicrobial, assembly_qc, reduce_dataframe, taxonomic_assignment
+            from .parse import (
+                parse_all_outputs,
+                parse_tsv,
+                parse_bakta_txt,
+                parse_mash_winning_sorted_tab,
+                parse_fasta,
+            )
+            
+            parsers = {
+                "abritamr": parse_tsv,
+                "bakta": parse_bakta_txt,
+                "checkm": parse_tsv,
+                "mash": parse_mash_winning_sorted_tab,
+                "mlst": parse_tsv,
+                "shovill": parse_fasta,
+                "sylph": parse_tsv,
+            }
 
             outputs: dict[str, list[Path]] = {
                 "abritamr": [Path(fp) for fp in snakemake.input.abritamr],  # type: ignore
