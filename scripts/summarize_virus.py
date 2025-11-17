@@ -1,16 +1,6 @@
 import pandas as pd
 import traceback
 from pathlib import Path
-from .map import reduce_dataframe, virus
-from .parse import parse_all_outputs, parse_tsv
-
-
-parsers = {
-    "genomad_plasmid_summary": parse_tsv,
-    "genomad_virus_summary": parse_tsv,
-    "genomad_plasmid_genes": parse_tsv,
-    "genomad_virus_genes": parse_tsv,
-}
 
 
 if "snakemake" in globals():
@@ -18,6 +8,15 @@ if "snakemake" in globals():
     with open(log_fp, "w") as log:
         try:
             log.write("Starting summary script\n")
+            from .map import reduce_dataframe, virus
+            from .parse import parse_all_outputs, parse_tsv
+            
+            parsers = {
+                "genomad_plasmid_summary": parse_tsv,
+                "genomad_virus_summary": parse_tsv,
+                "genomad_plasmid_genes": parse_tsv,
+                "genomad_virus_genes": parse_tsv,
+            }
 
             outputs: dict[str, list[Path]] = {
                 "genomad_plasmid_summary": [Path(fp) for fp in snakemake.input if "plasmid_summary" in fp],  # type: ignore
