@@ -49,17 +49,10 @@ if __name__ == "__main__":
     snippy_outdirs = [str(p) for p in Path("snippy_outputs").iterdir() if p.is_dir()]
     core_outdir = Path("snippy_core_output")
     core_outdir.mkdir(parents=True, exist_ok=True)
-    cmd = [
-        "snippy-core",
-        "--prefix",
-        "core",
-        *snippy_outdirs,
-        "--ref",
-        ref_fp
-    ]
+    cmd = ["snippy-core", "--prefix", "core", *snippy_outdirs, "--ref", ref_fp]
     print("Running ", " ".join(cmd))
     sp.run(cmd, cwd=str(core_outdir), shell=True)
-    
+
     # Run iqtree on core SNP alignment
     core_snp_alignment = core_outdir / "core.full.aln"
     iqtree_outdir = core_outdir / "iqtree" / "core.full.aln.treefile"
@@ -75,7 +68,7 @@ if __name__ == "__main__":
         "-T",
         "AUTO",
         "-pre",
-        str(core_outdir)
+        str(core_outdir),
     ]
     print("Running ", " ".join(cmd))
     sp.run(cmd)
