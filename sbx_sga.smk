@@ -291,6 +291,7 @@ rule sga_report:
         ),
         assembly_qcs=ISOLATE_FP / "assembly_qcs.tsv",
         taxonomic_assignments=ISOLATE_FP / "taxonomic_assignments.tsv",
+        contaminants=ISOLATE_FP / "contaminants.tsv",
         antimicrobials=ISOLATE_FP / "antimicrobials.tsv",
     params:
         mash_identity=Cfg["sbx_sga"]["mash_identity"],

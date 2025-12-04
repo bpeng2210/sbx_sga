@@ -5,12 +5,31 @@ from typing import Callable
 
 
 def _parse_sample_name(fp: Path) -> str:
-    return fp.parent.parent.name
+    return fp.parent.name
 
 
 def parse_tsv(fp: Path) -> pd.DataFrame:
     df = pd.read_csv(fp, sep="\t")
     df.insert(0, "SampleID", _parse_sample_name(fp))
+    return df
+
+
+def parse_mlst(fp: Path) -> pd.DataFrame:
+    # Take in `marc.ast.1076.fa	ecoli_achtman_4	58	adk(6)	fumC(4)	gyrB(4)	icd(16)	mdh(24)	purA(8)	recA(14)`
+    # and convert to a dataframe with columns SampleID, classification (e.g. `ecoli_achtman_4 58`), and allele_assignment (e.g. `adk(6) fumC(4) ...`)
+    # Note: the tsv comes without a header line
+    df = pd.read_csv(fp, sep="\t", header=None)
+    df.insert(0, "SampleID", _parse_sample_name(fp))
+
+    classification_row = df.apply(lambda row: f"{row.iloc[2]} {row.iloc[3]}", axis=1)
+    df["allele_assignment"] = df.apply(
+        lambda row: " ".join(row.iloc[4:].astype(str)), axis=1
+    )
+    df["classification"] = classification_row
+
+    # Drop unused columns, everything but SampleID, classification, allele_assignment
+    df = df[["SampleID", "classification", "allele_assignment"]]
+
     return df
 
 
@@ -129,6 +148,12 @@ def parse_fasta(fp: Path) -> pd.DataFrame:
             "Average_coverage": [rounded_cov],
         }
     )
+
+
+def parse_sylph(fp: Path) -> pd.DataFrame:
+    df = parse_tsv(fp)
+    df["species"] = df["Contig_name"].apply(_extract_species_name)
+    return df
 
 
 def parse_all_outputs(

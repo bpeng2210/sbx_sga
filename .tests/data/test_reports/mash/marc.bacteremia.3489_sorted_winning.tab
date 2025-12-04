@@ -1,0 +1,792 @@
+0.957191	399/1000	459	0	GCF_001579035.1_ASM157903v1_genomic.fna.gz	[85 seqs] NZ_KQ970285.1 Streptococcus mitis strain DD26 genomic scaffold scaffold00001, whole genome shotgun sequence [...]
+0.923028	186/1000	435	0	GCF_000848885.1_ViralProj14604_genomic.fna.gz	NC_005294.1 Streptococcus prophage EJ-1, complete genome
+0.913038	148/1000	460	0	GCF_001070715.1_ASM107071v1_genomic.fna.gz	[145 seqs] NZ_JVRR01000136.1 Streptococcus pseudopneumoniae strain 163_SPSE 1000_987_21661_898__304__902_, whole genome shotgun sequence [...]
+0.897826	104/1000	432	0	GCF_000220085.1_ASM22008v2_genomic.fna.gz	[34 seqs] NZ_AFQV01000034.1 Streptococcus mitis SK1080 ctg1129645366110, whole genome shotgun sequence [...]
+0.86537	48/1000	465	6.17927e-180	GCF_000148545.1_ASM14854v1_genomic.fna.gz	[108 seqs] NZ_AEDV01000108.1 Streptococcus mitis SK597 contigB5, whole genome shotgun sequence [...]
+0.854711	37/1000	440	8.03059e-135	GCF_001347015.1_6938_6_7_genomic.fna.gz	[32 seqs] NZ_CFGI01000001.1 Streptococcus pneumoniae strain 19F, whole genome shotgun sequence [...]
+0.853596	36/1000	420	8.69366e-131	GCF_001113365.1_6823_7_22_genomic.fna.gz	[39 seqs] NZ_CKYA01000001.1 Streptococcus pneumoniae strain SMRU2014, whole genome shotgun sequence [...]
+0.852452	35/1000	512	9.14763e-127	GCF_001881695.1_ViralProj353692_genomic.fna.gz	NC_031923.1 Streptococcus phage phiARI0468-2, complete genome
+0.844852	29/1000	395	6.5222e-103	GCF_000506725.1_Sm.str21_39_v1.0_genomic.fna.gz	[48 seqs] NZ_AYRR01000001.1 Streptococcus mitis 21/39 Sm_21_39contig00001, whole genome shotgun sequence [...]
+0.843442	28/1000	459	5.48854e-99	GCF_001884675.1_ViralProj353696_genomic.fna.gz	NC_031941.1 Streptococcus phage phiARI0131-2, complete genome
+0.837273	24/1000	442	1.89275e-83	GCF_001171885.1_6680_6_10_genomic.fna.gz	[22 seqs] NZ_CKQD01000001.1 Streptococcus pneumoniae strain SMRU946, whole genome shotgun sequence [...]
+0.833811	22/1000	447	8.69886e-76	GCF_001096185.1_6775_1_8_genomic.fna.gz	[24 seqs] NZ_CRPU01000001.1 Streptococcus pneumoniae strain SMRU824, whole genome shotgun sequence [...]
+0.828011	19/1000	418	1.91626e-64	GCF_000148525.1_ASM14852v1_genomic.fna.gz	[35 seqs] NZ_AEDU01000035.1 Streptococcus mitis SK564 contigB3, whole genome shotgun sequence [...]
+0.821262	16/1000	405	2.63191e-53	GCF_000722775.1_ASM72277v1_genomic.fna.gz	[15 seqs] NZ_JPFZ01000001.1 Streptococcus mitis strain SK608 gsmSK608.contig.0_1, whole genome shotgun sequence [...]
+0.818742	15/1000	362	1.20584e-49	GCF_001304565.1_ASM130456v1_genomic.fna.gz	[188 seqs] NZ_LJHK01000001.1 Streptococcus pseudopneumoniae strain 61-14 0, whole genome shotgun sequence [...]
+0.813182	13/1000	435	2.07009e-42	GCF_001546795.1_ASM154679v1_genomic.fna.gz	[55 seqs] NZ_KQ957840.1 Streptococcus mitis strain CMW7705B Scaffold0, whole genome shotgun sequence [...]
+0.813182	13/1000	394	2.07009e-42	GCF_002021715.1_ASM202171v1_genomic.fna.gz	[108 seqs] NZ_LSMB01000001.1 Streptococcus pneumoniae strain C144.66 C144_contig_1, whole genome shotgun sequence [...]
+0.810088	12/1000	435	7.68268e-39	GCF_001881835.1_ViralProj353694_genomic.fna.gz	NC_031942.1 Streptococcus phage phiARI0462, complete genome
+0.806739	11/1000	451	2.62928e-35	GCF_001579045.1_ASM157904v1_genomic.fna.gz	[24 seqs] NZ_KQ970261.1 Streptococcus mitis strain DD28 scaffold00001, whole genome shotgun sequence [...]
+0.803086	10/1000	477	8.24016e-32	GCF_001069865.1_ASM106986v1_genomic.fna.gz	[58 seqs] NZ_JVSM01000003.1 Streptococcus pseudopneumoniae strain 144_SPSE 117_229_13800, whole genome shotgun sequence [...]
+0.803086	10/1000	1	8.24016e-32	GCF_000257905.1_SmitisSK579v1.0_genomic.fna.gz	[82 seqs] NZ_AJJL01000001.1 Streptococcus mitis SK579 contig00033, whole genome shotgun sequence [...]
+0.799067	9/1000	416	2.34534e-28	GCF_001072315.1_ASM107231v1_genomic.fna.gz	[209 seqs] NZ_JVLI01000001.1 Streptococcus pseudopneumoniae strain 330_SPSE 0_919_132734, whole genome shotgun sequence [...]
+0.799067	9/1000	356	2.34534e-28	GCF_001074635.1_ASM107463v1_genomic.fna.gz	[250 seqs] NZ_JUQO01000001.1 Streptococcus mitis strain 850_SMIT 0_226_2877, whole genome shotgun sequence [...]
+0.799067	9/1000	355	2.34534e-28	GCF_001885385.1_ViralProj353697_genomic.fna.gz	NC_031901.1 Streptococcus phage phiARI0131-1, complete genome
+0.794597	8/1000	6	6.00182e-25	GCF_000960065.1_ASM96006v1_genomic.fna.gz	[8 seqs] NZ_JYGS01000001.1 Streptococcus mitis strain SK145 TZ93_contig000001, whole genome shotgun sequence [...]
+0.794597	8/1000	485	6.00182e-25	GCF_001041795.1_ViralProj287975_genomic.fna.gz	NC_027396.1 Streptococcus phage SpSL1, complete genome
+0.794597	8/1000	465	6.00182e-25	GCF_001736395.1_ViralProj343526_genomic.fna.gz	NC_030946.1 Streptococcus phage phiARI0923, complete genome
+0.794597	8/1000	439	6.00182e-25	GCF_001074975.1_ASM107497v1_genomic.fna.gz	[142 seqs] NZ_JUUO01000013.1 Streptococcus pseudopneumoniae strain 75_SPSE 149_511_4018, whole genome shotgun sequence [...]
+0.794597	8/1000	376	6.00182e-25	GCF_002096835.1_ASM209683v1_genomic.fna.gz	[23 seqs] NZ_NCVG01000023.1 Streptococcus mitis strain RH_43861_09 s_mitis_RH_43861_09_ID_1, whole genome shotgun sequence [...]
+0.789561	7/1000	554	1.36388e-21	GCF_000843165.1_ViralProj14295_genomic.fna.gz	NC_004996.1 Streptococcus phage SM1, complete genome
+0.789561	7/1000	519	1.36388e-21	GCF_001882175.1_ViralProj353699_genomic.fna.gz	NC_031920.1 Streptococcus phage phiARI0004, complete genome
+0.789561	7/1000	409	1.36388e-21	GCF_000722705.1_ASM72270v1_genomic.fna.gz	[11 seqs] NZ_JPFW01000001.1 Streptococcus mitis strain SK642 gsmSK642.contig.0_1, whole genome shotgun sequence [...]
+0.789561	7/1000	1	1.36388e-21	GCF_900236025.1_ASM90023602v1_genomic.fna.gz	[157 seqs] NZ_OEMV01000155.1 Staphylococcus aureus isolate R0007_349A, whole genome shotgun sequence [...]
+0.783786	6/1000	398	2.70921e-18	GCF_000148585.1_ASM14858v1_genomic.fna.gz	[24 seqs] NZ_AEDX01000024.1 Streptococcus mitis NCTC 12261 contig9, whole genome shotgun sequence [...]
+0.783786	6/1000	389	2.70921e-18	GCF_002096845.1_ASM209684v1_genomic.fna.gz	[60 seqs] NZ_NCVK01000060.1 Streptococcus mitis strain OD_317805_11 s_mitis_OD_317805_11_ID_1, whole genome shotgun sequence [...]
+0.777011	5/1000	496	4.60827e-15	GCF_000148505.1_ASM14850v1_genomic.fna.gz	[40 seqs] NZ_AEDT01000040.1 Streptococcus mitis SK321 contigB3, whole genome shotgun sequence [...]
+0.777011	5/1000	457	4.60827e-15	GCF_000259505.1_SspSK643v1.0_genomic.fna.gz	[31 seqs] NZ_AJMM01000001.1 Streptococcus sp. SK643 contig00011, whole genome shotgun sequence [...]
+0.777011	5/1000	420	4.60827e-15	GCF_002014795.1_ASM201479v1_genomic.fna.gz	[9 seqs] NZ_MUYO01000001.1 Streptococcus mitis strain CCUG 63687 63687_ctg_0000001, whole genome shotgun sequence [...]
+0.777011	5/1000	3	4.60827e-15	GCF_000875325.1_ViralProj30161_genomic.fna.gz	NC_010945.1 Streptococcus phage PH15, complete genome
+0.777011	5/1000	2	4.60827e-15	GCF_001281025.1_ASM128102v1_genomic.fna.gz	NZ_CP012646.1 Streptococcus mitis strain KCOM 1350 (= ChDC B183), complete genome
+0.777011	5/1000	1	4.60827e-15	GCF_002860825.1_ASM286082v1_genomic.fna.gz	[25 seqs] NZ_PKID01000001.1 Streptococcus mitis strain UMB0079 .21837_8_83.1, whole genome shotgun sequence [...]
+0.777011	5/1000	1	4.60827e-15	GCF_002096815.1_ASM209681v1_genomic.fna.gz	[21 seqs] NZ_NCVJ01000021.1 Streptococcus mitis strain RH_12363_08 s_mitis_RH_12363_08_ID_1, whole genome shotgun sequence [...]
+0.777011	5/1000	1	4.60827e-15	GCF_001072375.1_ASM107237v1_genomic.fna.gz	[120 seqs] NZ_JVKV01000010.1 Streptococcus pseudopneumoniae strain 342_SPSE 118_28262_401938, whole genome shotgun sequence [...]
+0.768798	4/1000	500	6.52573e-12	GCF_000257455.1_SoralisSK610v1.0_genomic.fna.gz	[31 seqs] NZ_AJKQ01000001.1 Streptococcus oralis SK610 contig00011, whole genome shotgun sequence [...]
+0.768798	4/1000	444	6.52573e-12	GCF_000916975.1_ViralProj239271_genomic.fna.gz	NC_023503.1 Streptococcus phage 20617 complete prophage genome
+0.768798	4/1000	424	6.52573e-12	GCF_001881755.1_ViralProj353695_genomic.fna.gz	NC_031913.1 Streptococcus phage phiARI0460-1, complete genome
+0.768798	4/1000	376	6.52573e-12	GCF_002780495.1_ASM278049v1_genomic.fna.gz	[112 seqs] NZ_PDEO01000001.1 Streptococcus pseudopneumoniae strain 5305 contig00001, whole genome shotgun sequence [...]
+0.768798	4/1000	3	6.52573e-12	GCF_000344255.1_Streptococcus_tigurinus_1366_genomic.fna.gz	[14 seqs] NZ_AORX01000001.1 Streptococcus oralis subsp. tigurinus 1366 contig001, whole genome shotgun sequence [...]
+0.768798	4/1000	358	6.52573e-12	GCF_002005545.1_ASM200554v1_genomic.fna.gz	[6 seqs] NZ_LBMT01000001.1 Streptococcus mitis strain 321A Scaffold1, whole genome shotgun sequence [...]
+0.768798	4/1000	2	6.52573e-12	GCF_002096755.1_ASM209675v1_genomic.fna.gz	[26 seqs] NZ_NCVF01000026.1 Streptococcus mitis strain RH_50275_09 s_mitis_RH_50275_09_ID_1, whole genome shotgun sequence [...]
+0.768798	4/1000	2	6.52573e-12	GCF_001070035.1_ASM107003v1_genomic.fna.gz	[79 seqs] NZ_JWFA01000017.1 Streptococcus mitis strain 1042_SPSE 117_318_10387, whole genome shotgun sequence [...]
+0.768798	4/1000	2	6.52573e-12	GCF_000221165.1_ASM22116v2_genomic.fna.gz	[2 seqs] NZ_AFUO01000002.1 Streptococcus mitis bv. 2 str. F0392 Contig21, whole genome shotgun sequence [...]
+0.768798	4/1000	1	6.52573e-12	GCF_002096275.1_ASM209627v1_genomic.fna.gz	[18 seqs] NZ_NCUG01000018.1 Streptococcus oralis subsp. tigurinus strain OD_314165_09 s_oralis_OD_314165_09_ID_1, whole genome shotgun sequence [...]
+0.768798	4/1000	1	6.52573e-12	GCF_001588695.1_ASM158869v1_genomic.fna.gz	[37 seqs] NZ_LAWI01000001.1 Streptococcus oralis subsp. tigurinus strain JPIBVI Contig1, whole genome shotgun sequence [...]
+0.768798	4/1000	1	6.52573e-12	GCF_001074825.1_ASM107482v1_genomic.fna.gz	[208 seqs] NZ_JUPG01000023.1 Streptococcus pseudopneumoniae strain 888_SPSE 103_811_16199, whole genome shotgun sequence [...]
+0.758338	3/1000	495	7.38585e-09	GCF_000886415.1_ViralProj38365_genomic.fna.gz	NC_012756.1 Streptococcus phage PH10, complete genome
+0.758338	3/1000	486	7.38585e-09	GCF_001970725.1_ViralProj362910_genomic.fna.gz	NC_033440.1 Wenzhou tombus-like virus 10 strain WZFSL57346 hypothetical protein 1 and hypothetical protein 2 genes, complete cds
+0.758338	3/1000	457	7.38585e-09	GCF_000722835.1_ASM72283v1_genomic.fna.gz	[40 seqs] NZ_JPFS01000001.1 Streptococcus mitis strain SK137 gsmSK137.contig.0_1, whole genome shotgun sequence [...]
+0.758338	3/1000	449	7.38585e-09	GCF_000722815.1_ASM72281v1_genomic.fna.gz	[9 seqs] NZ_JPFT01000001.1 Streptococcus mitis strain SK1126 gsmSK1126.contig.0_1, whole genome shotgun sequence [...]
+0.758338	3/1000	438	7.38585e-09	GCF_900321175.1_Rumen_uncultured_genome_RUG664_genomic.fna.gz	[238 seqs] NZ_ONUZ01000236.1 Streptococcus equinus isolate RUG664, whole genome shotgun sequence [...]
+0.758338	3/1000	387	7.38585e-09	GCF_000722755.1_ASM72275v1_genomic.fna.gz	[16 seqs] NZ_JPFY01000001.1 Streptococcus mitis strain SK578 gsmSK578.contig.0_1, whole genome shotgun sequence [...]
+0.758338	3/1000	383	7.38585e-09	GCF_002096685.1_ASM209668v1_genomic.fna.gz	[41 seqs] NZ_NCVA01000041.1 Streptococcus oralis subsp. dentisani strain RH_13585_10 s_oralis_RH_13585_10_ID_1, whole genome shotgun sequence [...]
+0.758338	3/1000	289	7.38585e-09	GCF_001336455.1_6259_7_19_genomic.fna.gz	[83 seqs] NZ_CHNI01000001.1 Streptococcus pneumoniae strain type strain: N, whole genome shotgun sequence [...]
+0.758338	3/1000	2	7.38585e-09	GCF_900047895.1_12754_1_63_genomic.fna.gz	[27 seqs] NZ_FDOA01000001.1 Streptococcus pneumoniae strain 2842STDY5753532, whole genome shotgun sequence [...]
+0.758338	3/1000	2	7.38585e-09	GCF_001070815.1_ASM107081v1_genomic.fna.gz	[72 seqs] NZ_JVLX01000006.1 Streptococcus pseudopneumoniae strain 315_SPSE 115_243_2262, whole genome shotgun sequence [...]
+0.758338	3/1000	2	7.38585e-09	GCF_000027165.1_ASM2716v1_genomic.fna.gz	NC_013853.1 Streptococcus mitis B6, complete genome
+0.758338	3/1000	1	7.38585e-09	GCF_900042815.1_11860_6_86_genomic.fna.gz	[32 seqs] NZ_FEBQ01000001.1 Streptococcus pneumoniae strain 2842STDY5643923, whole genome shotgun sequence [...]
+0.758338	3/1000	1	7.38585e-09	GCF_900029975.1_12273_1_86_genomic.fna.gz	[27 seqs] NZ_FEFR01000001.1 Streptococcus pneumoniae strain 2842STDY5644124, whole genome shotgun sequence [...]
+0.758338	3/1000	1	7.38585e-09	GCF_002096855.1_ASM209685v1_genomic.fna.gz	[33 seqs] NZ_NCVH01000033.1 Streptococcus mitis strain RH_17439_08 s_mitis_RH_17439_08_ID_1, whole genome shotgun sequence [...]
+0.758338	3/1000	1	7.38585e-09	GCF_002003955.1_ViralMultiSegProj375038_genomic.fna.gz	[3 seqs] NC_033774.1 Pepper chlorotic spot virus isolate 14YV733 segment L, complete sequence [...]
+0.758338	3/1000	1	7.38585e-09	GCF_001646215.1_ViralProj321710_genomic.fna.gz	NC_030137.1 Bovine faeces associated circular DNA virus 2 isolate 48_Fec10_cow, complete sequence
+0.758338	3/1000	1	7.38585e-09	GCF_001293375.1_478NasalB_v1.0_genomic.fna.gz	[260 seqs] NZ_LGKK01000001.1 Streptococcus suis strain SRD478 478NasalB_c1, whole genome shotgun sequence [...]
+0.758338	3/1000	1	7.38585e-09	GCF_000385835.1_ASM38583v1_genomic.fna.gz	[153 seqs] NZ_AQTU01000001.1 Streptococcus mitis 13/39 contig00001, whole genome shotgun sequence [...]
+0.758338	3/1000	1	7.38585e-09	GCF_000279535.1_ASM27953v1_genomic.fna.gz	[10 seqs] NZ_ALCH01000001.1 Streptococcus infantis SPAR10 GA06201.contig.0, whole genome shotgun sequence [...]
+0.758338	3/1000	1	7.38585e-09	GCF_000220045.1_ASM22004v2_genomic.fna.gz	[54 seqs] NZ_AFQT01000054.1 Streptococcus mitis SK1073 ctg1129645355399, whole genome shotgun sequence [...]
+0.758338	3/1000	1	7.38585e-09	GCF_000215385.1_ASM21538v1_genomic.fna.gz	[30 seqs] NZ_AFNN01000030.1 Streptococcus infantis SK1076 ctg1129157454855, whole genome shotgun sequence [...]
+0.743837	2/1000	571	6.26396e-06	GCF_001342135.1_6841_7_2_genomic.fna.gz	[58 seqs] NZ_CHHS01000001.1 Streptococcus pneumoniae strain SMRU1322, whole genome shotgun sequence [...]
+0.743837	2/1000	563	6.26396e-06	GCF_000844885.1_ViralProj14472_genomic.fna.gz	NC_005902.1 Lymphocystis disease virus - isolate China, complete genome
+0.743837	2/1000	5	6.26396e-06	GCF_002934525.1_ASM293452v1_genomic.fna.gz	[70 seqs] NZ_PTIW01000001.1 Arcobacter marinus strain MARC-MIP3H16 Ga0139035_101, whole genome shotgun sequence [...]
+0.743837	2/1000	555	6.26396e-06	GCF_001101325.1_6841_7_15_genomic.fna.gz	[39 seqs] NZ_CLAL01000001.1 Streptococcus pneumoniae strain SMRU1335, whole genome shotgun sequence [...]
+0.743837	2/1000	545	6.26396e-06	GCF_000867705.1_ViralProj18001_genomic.fna.gz	NC_008524.1 Tomato leaf curl virus-Pune-associated DNA beta DNA-A, complete genome
+0.743837	2/1000	536	6.26396e-06	GCF_001070985.1_ASM107098v1_genomic.fna.gz	[39 seqs] NZ_JVJJ01000003.1 Streptococcus mitis strain 38_SPSE 308_26396_1003988, whole genome shotgun sequence [...]
+0.743837	2/1000	535	6.26396e-06	GCF_900061855.1_14673_4_31_genomic.fna.gz	[16 seqs] NZ_FHVL01000001.1 Streptococcus pneumoniae strain 2245STDY5982750, whole genome shotgun sequence [...]
+0.743837	2/1000	532	6.26396e-06	GCF_000724165.1_ASM72416v1_genomic.fna.gz	[14 seqs] NZ_JPGW01000001.1 Streptococcus mitis strain SK271 gsmSK271.contig.0_1, whole genome shotgun sequence [...]
+0.743837	2/1000	502	6.26396e-06	GCF_000089865.1_ASM8986v1_genomic.fna.gz	NC_013948.1 Mycoplasma agalactiae 5632 chromosome, complete sequence
+0.743837	2/1000	501	6.26396e-06	GCF_001107645.1_6899_5_21_genomic.fna.gz	[69 seqs] NZ_CLDR01000001.1 Streptococcus pneumoniae strain SMRU2061, whole genome shotgun sequence [...]
+0.743837	2/1000	496	6.26396e-06	GCF_001336595.1_6259_5_22_genomic.fna.gz	[74 seqs] NZ_CGVP01000001.1 Streptococcus pneumoniae strain type strain: N, whole genome shotgun sequence [...]
+0.743837	2/1000	495	6.26396e-06	GCF_001810785.1_ASM181078v1_genomic.fna.gz	[21 seqs] NZ_KV802678.1 Streptococcus sp. HMSC073F11 Scaffold1, whole genome shotgun sequence [...]
+0.743837	2/1000	480	6.26396e-06	GCF_002366085.1_ViralProj354191_genomic.fna.gz	NC_031956.1 UNVERIFIED: Balsa virus strain CoB 84, complete sequence
+0.743837	2/1000	469	6.26396e-06	GCF_000911375.1_ViralProj227353_genomic.fna.gz	NC_022791.1 Streptococcus phage phiBHN167 complete genome
+0.743837	2/1000	465	6.26396e-06	GCF_000222785.1_ASM22278v2_genomic.fna.gz	[54 seqs] NZ_AFUF01000054.1 Streptococcus mitis SK569 ctg1129913977589, whole genome shotgun sequence [...]
+0.743837	2/1000	4	6.26396e-06	GCF_900058795.1_3850_1_9_genomic.fna.gz	[81 seqs] NZ_FIXK01000001.1 Streptococcus pneumoniae strain D38094X, whole genome shotgun sequence [...]
+0.743837	2/1000	4	6.26396e-06	GCF_001094565.1_5750_2_6_genomic.fna.gz	[48 seqs] NZ_CMVL01000001.1 Streptococcus pneumoniae strain 0246, whole genome shotgun sequence [...]
+0.743837	2/1000	454	6.26396e-06	GCF_001654325.1_ViralProj323876_genomic.fna.gz	NC_030227.1 Wuhan centipede virus strain WHWG-11 polyprotein gene, complete cds
+0.743837	2/1000	450	6.26396e-06	GCF_002014755.1_ASM201475v1_genomic.fna.gz	[14 seqs] NZ_MUYN01000001.1 Streptococcus mitis strain CCUG 31611 31611_ctg_0000001, whole genome shotgun sequence [...]
+0.743837	2/1000	449	6.26396e-06	GCF_001143925.1_5901_2_7_genomic.fna.gz	[258 seqs] NZ_CPKJ01000001.1 Streptococcus pneumoniae strain 1422-00, whole genome shotgun sequence [...]
+0.743837	2/1000	442	6.26396e-06	GCF_000313915.1_CMarimammalium1.0_genomic.fna.gz	[25 seqs] NZ_AMYT01000001.1 Catellicoccus marimammalium M35/04/3 contig00001, whole genome shotgun sequence [...]
+0.743837	2/1000	430	6.26396e-06	GCF_001924075.1_ViralProj358923_genomic.fna.gz	NC_032245.1 Hubei myriapoda virus 8 strain WGML66308 putative glycoprotein, hypothetical protein 1, hypothetical protein 2, and RNA-dependent RNA polymerase genes, complete cds
+0.743837	2/1000	427	6.26396e-06	GCF_002356415.1_ASM235641v1_genomic.fna.gz	NZ_AP018338.1 Streptococcus oralis subsp. tigurinus DNA, complete genome, strain: osk_001
+0.743837	2/1000	394	6.26396e-06	GCF_001808665.1_ASM180866v1_genomic.fna.gz	[93 seqs] NZ_KV794125.1 Streptococcus sp. HMSC070B10 Scaffold0, whole genome shotgun sequence [...]
+0.743837	2/1000	387	6.26396e-06	GCF_001144905.1_6805_4_1_genomic.fna.gz	[46 seqs] NZ_CRTC01000001.1 Streptococcus pneumoniae strain SMRU1657, whole genome shotgun sequence [...]
+0.743837	2/1000	359	6.26396e-06	GCF_000731915.1_ASM73191v1_genomic.fna.gz	[116 seqs] NZ_JFDP01000001.1 Ureaplasma diversum NCTC 246 contig00005, whole genome shotgun sequence [...]
+0.743837	2/1000	347	6.26396e-06	GCF_001208045.1_6755_6_1_genomic.fna.gz	[59 seqs] NZ_CROP01000001.1 Streptococcus pneumoniae strain SMRU1177, whole genome shotgun sequence [...]
+0.743837	2/1000	313	6.26396e-06	GCF_001695275.1_ASM169527v1_genomic.fna.gz	[8 seqs] NZ_LDIS01000001.1 Arcobacter thereius strain 440 AAX25_contig000001, whole genome shotgun sequence [...]
+0.743837	2/1000	308	6.26396e-06	GCF_000870565.1_ViralProj19153_genomic.fna.gz	NC_009231.1 Clostridium phage phiC2, complete genome
+0.743837	2/1000	288	6.26396e-06	GCF_001884655.1_ViralProj353690_genomic.fna.gz	NC_031907.1 Streptococcus phage phiARI0746, complete genome
+0.743837	2/1000	27	6.26396e-06	GCF_000862985.1_ViralProj15307_genomic.fna.gz	NC_001479.1 Encephalomyocarditis virus, complete genome
+0.743837	2/1000	2	6.26396e-06	GCF_002355895.1_ASM235589v1_genomic.fna.gz	NZ_AP017652.1 Streptococcus sp. NPS 308 DNA, complete genome
+0.743837	2/1000	2	6.26396e-06	GCF_002302065.1_ASM230206v1_genomic.fna.gz	[1925 seqs] NZ_MPEU01000001.1 Clostridioides difficile strain 7452-Y/ST110 LCH7452_contig000001, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_002096935.1_ASM209693v1_genomic.fna.gz	[27 seqs] NZ_NCVM01000026.1 Streptococcus mitis strain B_5756_13 s_mitis_RS_5756_13_ID_1, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_002093515.1_ASM209351v1_genomic.fna.gz	[29 seqs] NZ_LNVG01000001.1 Streptococcus oralis subsp. tigurinus strain AZ_14 S.tigurinus-AZ14_Contig001, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_001808865.1_ASM180886v1_genomic.fna.gz	[52 seqs] NZ_KV794985.1 Streptococcus sp. HMSC061D10 Scaffold0, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_001634865.1_ASM163486v1_genomic.fna.gz	[2993 seqs] NZ_LWEV01000001.1 Erythrobacter sp. HI0037 HI0037_c1, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_001578885.1_ASM157888v1_genomic.fna.gz	[11 seqs] NZ_KQ969495.1 Streptococcus sp. DD12 scaffold00001, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_001435325.1_ASM143532v1_genomic.fna.gz	[55 seqs] NZ_AZGN01000048.1 Lactobacillus intestinalis DSM 6629 NODE_100, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_001076775.1_ASM107677v1_genomic.fna.gz	[37 seqs] NZ_JVGV01000002.1 Streptococcus pseudopneumoniae strain 445_SPSE 160_1845_293894, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_001075675.1_ASM107567v1_genomic.fna.gz	[60 seqs] NZ_JUNW01000025.1 Streptococcus oralis strain 918_SORA 100_384_5216, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_000885935.1_ViralMultiSegProj40327_genomic.fna.gz	[2 seqs] NC_013218.1 Turnip ringspot virus RNA 1, complete genome [...]
+0.743837	2/1000	2	6.26396e-06	GCF_000870705.1_ViralProj19601_genomic.fna.gz	NC_009449.1 Honeysuckle yellow vein beta-[Japan:Fukui:2001], complete genome
+0.743837	2/1000	2	6.26396e-06	GCF_000859845.1_ViralProj15189_genomic.fna.gz	NC_003878.1 Zucchini green mottle mosaic virus, complete genome
+0.743837	2/1000	2	6.26396e-06	GCF_000448685.2_ASM44868v2_genomic.fna.gz	NZ_CP013216.1 Streptococcus salivarius strain HSISS4, complete genome
+0.743837	2/1000	2	6.26396e-06	GCF_000440655.1_version1_genomic.fna.gz	[76 seqs] NZ_ALLL01000001.1 Streptococcus suis 89-4109-1 Contig00001, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_000314795.2_Strept_sp_F0442_V1_genomic.fna.gz	[3 seqs] NZ_KB373314.1 Streptococcus sp. F0442 supercont1.1, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_000257865.1_ASM25786v1_genomic.fna.gz	[90 seqs] NZ_AICU01000001.1 Streptococcus mitis SK575 contig00033, whole genome shotgun sequence [...]
+0.743837	2/1000	2	6.26396e-06	GCF_000188315.1_ASM18831v1_genomic.fna.gz	NZ_CM001076.1 Streptococcus dysgalactiae subsp. dysgalactiae ATCC 27957 chromosome, whole genome shotgun sequence
+0.743837	2/1000	249	6.26396e-06	GCF_002780525.1_ASM278052v1_genomic.fna.gz	[88 seqs] NZ_PDEN01000001.1 Streptococcus pseudopneumoniae strain CipR71 contig00001, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_900170505.1_PMEN_genomic.fna.gz	[342 seqs] NZ_FWSX01000342.1 Streptococcus pneumoniae isolate PMEN-13, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_900104285.1_IMG-taxon_2654588205_annotated_assembly_genomic.fna.gz	[19 seqs] NZ_FNJT01000019.1 Streptococcus sp. NLAE-zl-C503, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_002953735.1_ASM295373v1_genomic.fna.gz	NZ_CP025536.1 Streptococcus pluranimalium strain TH11417 chromosome, complete genome
+0.743837	2/1000	1	6.26396e-06	GCF_002890015.1_ASM289001v1_genomic.fna.gz	NC_036587.1 Babaco mosaic virus isolate Tandapi, complete genome
+0.743837	2/1000	1	6.26396e-06	GCF_002872415.1_ASM287241v1_genomic.fna.gz	NZ_CP025704.1 Bacteriovorax stolpii strain DSM 12778 chromosome, complete genome
+0.743837	2/1000	1	6.26396e-06	GCF_002302535.1_ASM230253v1_genomic.fna.gz	NZ_CP022381.1 Capnocytophaga sp. H2931 chromosome, complete genome
+0.743837	2/1000	1	6.26396e-06	GCF_002149705.1_ViralProj343546.1_genomic.fna.gz	NC_030949.1 Clostridium phage phiCTC2A, complete genome
+0.743837	2/1000	1	6.26396e-06	GCF_002096775.1_ASM209677v1_genomic.fna.gz	[29 seqs] NZ_NCVE01000029.1 Streptococcus mitis strain RH_50738_11 s_mitis_RH_50738_11_ID_1, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_002079925.1_ASM207992v1_genomic.fna.gz	[36 seqs] NZ_NBDY01000001.1 Lactobacillus salivarius strain NCIMB8817 NCIMB8817_contig_1, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_001839505.1_ASM183950v1_genomic.fna.gz	[18 seqs] NZ_KV841541.1 Streptococcus sp. HMSC34B10 Scaffold0, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_001836965.1_ASM183696v1_genomic.fna.gz	[60 seqs] NZ_KV831006.1 Streptococcus sp. HMSC063B03 Scaffold9, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_001812125.1_ASM181212v1_genomic.fna.gz	[142 seqs] NZ_KV807682.1 Streptococcus sp. HMSC071D03 Scaffold0, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_001646435.1_ViralProj321676_genomic.fna.gz	NC_030149.1 Bovine faeces associated circular DNA molecule 1 isolate 5_Fec60361_cow, complete sequence
+0.743837	2/1000	1	6.26396e-06	GCF_001560895.1_ASM156089v1_genomic.fna.gz	NZ_CP014326.1 Streptococcus mitis strain SVGS_061, complete genome
+0.743837	2/1000	1	6.26396e-06	GCF_001169685.1_6259_5_17_genomic.fna.gz	[44 seqs] NZ_CJZO01000001.1 Streptococcus pneumoniae strain 48, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_000915855.1_ViralProj230991_genomic.fna.gz	NC_023015.1 Hedyotis uncinella yellow mosaic betasatellite isolate VN1, complete genome
+0.743837	2/1000	1	6.26396e-06	GCF_000888195.1_ViralProj48139_genomic.fna.gz	NC_014070.1 Torque teno sus virus 1a, complete genome
+0.743837	2/1000	1	6.26396e-06	GCF_000864785.1_ViralProj15480_genomic.fna.gz	NC_005057.1 Tobacco curly shoot virus associated DNA 1, complete genome
+0.743837	2/1000	1	6.26396e-06	GCF_000854885.1_ViralMultiSegProj15033_genomic.fna.gz	[5 seqs] NC_003514.1 Beet necrotic yellow vein virus RNA 1, complete sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_000846485.1_ViralProj14447_genomic.fna.gz	NC_004515.1 Eupatorium yellow vein virus-associated DNA beta, complete genome
+0.743837	2/1000	1	6.26396e-06	GCF_000215365.1_ASM21536v2_genomic.fna.gz	[63 seqs] NZ_AFNM01000063.1 Streptococcus oralis SK255 ctg1129157450615, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_000188035.1_ASM18803v3_genomic.fna.gz	[5 seqs] NZ_AEUY02000005.1 Streptococcus pseudoporcinus LQ 940-04 Contig1216510750, whole genome shotgun sequence [...]
+0.743837	2/1000	1	6.26396e-06	GCF_000187745.1_ASM18774v1_genomic.fna.gz	[32 seqs] NZ_GL732486.1 Streptococcus sp. M334 supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	880	0.00353916	GCF_001190635.1_ViralProj291251_genomic.fna.gz	NC_027647.1 Microviridae Fen7918_21, complete genome
+0.719686	1/1000	8	0.00353916	GCF_900169515.1_PRJEB19967_genomic.fna.gz	[5 seqs] NZ_LT827016.1 Varibaculum timonense strain Marseille-P3369, whole genome shotgun sequence [...]
+0.719686	1/1000	8	0.00353916	GCF_000232665.1_ASM23266v2_genomic.fna.gz	[12 seqs] NZ_AGPE01000012.1 Streptococcus pneumoniae GA16242 GA16242.contig.11, whole genome shotgun sequence [...]
+0.719686	1/1000	7	0.00353916	GCF_001811505.1_ASM181150v1_genomic.fna.gz	[97 seqs] NZ_KV804908.1 Streptococcus sp. HMSC034E03 Scaffold3, whole genome shotgun sequence [...]
+0.719686	1/1000	7	0.00353916	GCF_000893595.1_ViralMultiSegProj66565_genomic.fna.gz	[2 seqs] NC_015494.1 Fig cryptic virus segment 1, complete genome [...]
+0.719686	1/1000	6	0.00353916	GCF_900115735.1_IMG-taxon_2623620519_annotated_assembly_genomic.fna.gz	[76 seqs] NZ_FOXO01000075.1 Butyrivibrio proteoclasticus strain P18, whole genome shotgun sequence [...]
+0.719686	1/1000	6	0.00353916	GCF_900048125.1_11657_8_15_genomic.fna.gz	[20 seqs] NZ_FFTT01000001.1 Streptococcus pneumoniae strain 2245STDY5609002, whole genome shotgun sequence [...]
+0.719686	1/1000	6	0.00353916	GCF_002005105.1_14B_genomic.fna.gz	[85 seqs] NZ_MSCV01000001.1 Methylocaldum sp. 14B contig00001, whole genome shotgun sequence [...]
+0.719686	1/1000	6	0.00353916	GCF_001133485.1_7622_5_53_genomic.fna.gz	[138 seqs] NZ_COEP02000001.1 Streptococcus pneumoniae strain MD5042 isolate AFVC5, whole genome shotgun sequence [...]
+0.719686	1/1000	6	0.00353916	GCF_001010605.1_A.butzleri_L349_1.0_genomic.fna.gz	[72 seqs] NZ_JAIR01000001.1 Arcobacter butzleri L349 isolate CHRB1139 contig000001, whole genome shotgun sequence [...]
+0.719686	1/1000	585	0.00353916	GCF_000855945.1_ViralProj15080_genomic.fna.gz	NC_003689.1 Cherry virus A, complete genome
+0.719686	1/1000	581	0.00353916	GCF_000257805.1_ASM25780v1_genomic.fna.gz	[126 seqs] NZ_AICR01000001.1 Streptococcus mitis SK616 contig00033, whole genome shotgun sequence [...]
+0.719686	1/1000	555	0.00353916	GCF_000859725.1_ViralProj15164_genomic.fna.gz	NC_006945.1 Bacillus phage GIL16c, complete genome
+0.719686	1/1000	553	0.00353916	GCF_002356215.1_ASM235621v1_genomic.fna.gz	[5 seqs] NZ_AP017959.1 Synechococcus sp. NIES-970 DNA, complete genome [...]
+0.719686	1/1000	550	0.00353916	GCF_000297135.1_ASM29713v1_genomic.fna.gz	[78 seqs] NZ_CAEB01000078.1 Endosymbiont of Bathymodiolus sp., whole genome shotgun sequence [...]
+0.719686	1/1000	548	0.00353916	GCF_000874785.1_ViralProj30965_genomic.fna.gz	NC_011142.1 Iodobacteriophage phiPLPE, complete genome
+0.719686	1/1000	547	0.00353916	GCF_000881815.1_ViralMultiSegProj32725_genomic.fna.gz	[2 seqs] NC_011558.1 Lettuce big-vein associated virus RNA 1, complete genome [...]
+0.719686	1/1000	530	0.00353916	GCF_000860625.1_ViralProj15332_genomic.fna.gz	NC_001632.1 Rice tungro spherical virus, complete genome
+0.719686	1/1000	528	0.00353916	GCF_000928315.1_ViralProj273466_genomic.fna.gz	NC_026244.1 Giant guitarfish polyomavirus 1 isolate UGA1, complete genome
+0.719686	1/1000	524	0.00353916	GCF_000232845.1_ASM23284v2_genomic.fna.gz	[15 seqs] NZ_AGPN01000015.1 Streptococcus pneumoniae GA41437 GA41437.contig.14, whole genome shotgun sequence [...]
+0.719686	1/1000	522	0.00353916	GCF_002014925.1_ASM201492v1_genomic.fna.gz	[75 seqs] NZ_MUXQ01000001.1 Streptococcus pseudopneumoniae strain CCUG 62647 CCUG62647_R1__paired__trimmed__paired__contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	517	0.00353916	GCF_000967545.1_S2757_genomic.fna.gz	[71 seqs] NZ_JXXV01000001.1 Vibrio galatheae strain S2757 contig0001, whole genome shotgun sequence [...]
+0.719686	1/1000	509	0.00353916	GCF_900053295.1_5390_6_1_genomic.fna.gz	[61 seqs] NZ_FIXB01000001.1 Streptococcus pneumoniae strain A33308, whole genome shotgun sequence [...]
+0.719686	1/1000	509	0.00353916	GCF_000859485.1_ViralProj15114_genomic.fna.gz	AC_000018.1 Human adenovirus type 7, complete genome
+0.719686	1/1000	507	0.00353916	GCF_000478685.1_ASM47868v1_genomic.fna.gz	[9 seqs] NZ_AMSD01000001.1 Candidatus Photodesmus katoptron Akat1 chromosome I map unlocalized Contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	506	0.00353916	GCF_900192485.1_6486_5_18_genomic.fna.gz	[56 seqs] NZ_FYTY01000054.1 Streptococcus pneumoniae strain UoS4330, whole genome shotgun sequence [...]
+0.719686	1/1000	506	0.00353916	GCF_001960815.1_ViralProj361823_genomic.fna.gz	NC_032904.1 Shahe picorna-like virus 4 strain SHWC13603 hypothetical protein gene, complete cds
+0.719686	1/1000	504	0.00353916	GCF_001141385.1_5901_6_9_genomic.fna.gz	[239 seqs] NZ_CPQE01000001.1 Streptococcus pneumoniae strain 7535-06, whole genome shotgun sequence [...]
+0.719686	1/1000	5	0.00353916	GCF_900052415.1_13154_3_51_genomic.fna.gz	[47 seqs] NZ_FHNM01000001.1 Streptococcus pneumoniae strain 2245STDY5804499, whole genome shotgun sequence [...]
+0.719686	1/1000	5	0.00353916	GCF_001812375.1_ASM181237v1_genomic.fna.gz	[66 seqs] NZ_KV808745.1 Streptococcus sp. HMSC077F03 Scaffold0, whole genome shotgun sequence [...]
+0.719686	1/1000	5	0.00353916	GCF_000228485.1_SMUT2-NEX_62-395_genomic.fna.gz	[379 seqs] NZ_AGHK01000379.1 Streptococcus sobrinus TCI-395 contig00379, whole genome shotgun sequence [...]
+0.719686	1/1000	499	0.00353916	GCF_000186545.1_Strep_angi_1_2_62CV_V1_genomic.fna.gz	[7 seqs] NZ_GL636615.1 Streptococcus anginosus 1_2_62CV supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	498	0.00353916	GCF_001815045.1_ASM181504v1_genomic.fna.gz	[29 seqs] NZ_KV818826.1 Streptococcus sp. HMSC065E03 Scaffold0, whole genome shotgun sequence [...]
+0.719686	1/1000	498	0.00353916	GCF_000899595.1_ViralProj179411_genomic.fna.gz	NC_019402.1 Cronobacter phage vB_CsaP_GAP52, complete genome
+0.719686	1/1000	493	0.00353916	GCF_002005725.1_ViralProj376027_genomic.fna.gz	NC_033778.1 Leptopilina boulardi filamentous virus isolate Valence Gotheron, partial genome
+0.719686	1/1000	491	0.00353916	GCF_001885405.1_ViralProj353691_genomic.fna.gz	NC_031915.1 Streptococcus phage phiARI0468-4, complete genome
+0.719686	1/1000	486	0.00353916	GCF_000631965.1_Stre_pyog_ABC020046230_V1_genomic.fna.gz	[7 seqs] NZ_KK213891.1 Streptococcus pyogenes ABC020046230 genomic scaffold adVrh-supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	484	0.00353916	GCF_002210975.1_ViralProj392154_genomic.fna.gz	NC_035134.1 Cucurbit vein banding virus isolate 3.1, complete genome
+0.719686	1/1000	479	0.00353916	GCF_002073435.2_ASM207343v2_genomic.fna.gz	NZ_CP020450.2 Streptococcus gordonii strain FDAARGOS_257 chromosome, complete genome
+0.719686	1/1000	479	0.00353916	GCF_000963255.1_ASM96325v1_genomic.fna.gz	[29 seqs] NZ_JYOV01000001.1 Streptococcus infantis strain UC6950A TZ96_contig000001, whole genome shotgun sequence [...]
+0.719686	1/1000	476	0.00353916	GCF_900039635.1_11657_4_9_genomic.fna.gz	[34 seqs] NZ_FFRQ01000034.1 Streptococcus pneumoniae strain 2245STDY5608937, whole genome shotgun sequence [...]
+0.719686	1/1000	473	0.00353916	GCF_900058135.1_11657_4_55_genomic.fna.gz	[35 seqs] NZ_FHIF01000001.1 Streptococcus pneumoniae strain 2245STDY5609154, whole genome shotgun sequence [...]
+0.719686	1/1000	473	0.00353916	GCF_001970425.1_ViralProj362911_genomic.fna.gz	NC_033418.1 Wuhan coneheads virus 1 strain ZCM4592 hypothetical protein gene, complete cds
+0.719686	1/1000	471	0.00353916	GCF_001550745.1_ViralProj310950_genomic.fna.gz	NC_029067.1 Vibrio phage eugene 12A10 genomic sequence
+0.719686	1/1000	471	0.00353916	GCF_001543175.1_ASM154317v1_genomic.fna.gz	NZ_CP014161.1 Aerococcus urinae strain CCUG36881, complete genome
+0.719686	1/1000	467	0.00353916	GCF_000953435.1_CEM1.1_genomic.fna.gz	NZ_LM655252.1 Candidatus Evansia muelleri genome assembly CEM1.1, chromosome : I
+0.719686	1/1000	465	0.00353916	GCF_000187585.1_ASM18758v1_genomic.fna.gz	[3 seqs] NZ_GL732463.1 Streptococcus peroris ATCC 700780 SCAFFOLD1, whole genome shotgun sequence [...]
+0.719686	1/1000	458	0.00353916	GCF_900191855.1_6512_5_15_genomic.fna.gz	[61 seqs] NZ_FYRP01000059.1 Streptococcus pneumoniae strain UoS4054, whole genome shotgun sequence [...]
+0.719686	1/1000	457	0.00353916	GCF_900053865.1_6972_8_35_genomic.fna.gz	[32 seqs] NZ_FIXC01000001.1 Streptococcus pneumoniae strain A31361, whole genome shotgun sequence [...]
+0.719686	1/1000	456	0.00353916	GCF_000247565.1_ASM24756v1_genomic.fna.gz	NC_016893.1 Wigglesworthia glossinidia endosymbiont of Glossina morsitans morsitans (Yale colony), complete genome
+0.719686	1/1000	455	0.00353916	GCF_001095485.1_6999_7_18_genomic.fna.gz	[216 seqs] NZ_CNVK02000001.1 Streptococcus pneumoniae strain 388483, whole genome shotgun sequence [...]
+0.719686	1/1000	452	0.00353916	GCF_000187265.1_ASM18726v1_genomic.fna.gz	[20 seqs] NZ_GL698429.1 Streptococcus equinus ATCC 9812 SCAFFOLD1, whole genome shotgun sequence [...]
+0.719686	1/1000	451	0.00353916	GCF_000916195.1_ViralProj239729_genomic.fna.gz	NC_023571.1 Oenococcus phage phiS11, complete genome
+0.719686	1/1000	45	0.00353916	GCF_000916775.1_ViralProj232775_genomic.fna.gz	NC_023176.1 Porcine pestivirus isolate Bungowannah, complete genome
+0.719686	1/1000	449	0.00353916	GCF_001164305.1_5756_5_6_genomic.fna.gz	[102 seqs] NZ_CMVS01000001.1 Streptococcus pneumoniae strain 0269, whole genome shotgun sequence [...]
+0.719686	1/1000	447	0.00353916	GCF_002101295.1_ASM210129v1_genomic.fna.gz	NZ_CP020778.1 Candidatus Pelagibacter sp. RS40 genome
+0.719686	1/1000	442	0.00353916	GCF_001103765.1_7622_2_36_genomic.fna.gz	[122 seqs] NZ_COBD02000001.1 Streptococcus pneumoniae strain BR1106 isolate W5HGR, whole genome shotgun sequence [...]
+0.719686	1/1000	440	0.00353916	GCF_000857245.1_ViralProj15183_genomic.fna.gz	NC_003397.1 Bean common mosaic virus, complete genome
+0.719686	1/1000	438	0.00353916	GCF_001150685.1_6259_5_1_genomic.fna.gz	[63 seqs] NZ_CJZH01000001.1 Streptococcus pneumoniae strain type strain: N, whole genome shotgun sequence [...]
+0.719686	1/1000	437	0.00353916	GCF_000423745.1_ASM42374v1_genomic.fna.gz	[33 seqs] NZ_AUIO01000001.1 Streptococcus plurextorum DSM 22810 G575DRAFT_scaffold00001.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	436	0.00353916	GCF_002096925.1_ASM209692v1_genomic.fna.gz	[85 seqs] NZ_NCVN01000085.1 Streptococcus mitis strain B_009152_10 s_mitis_RS_009152_10_ID_1, whole genome shotgun sequence [...]
+0.719686	1/1000	436	0.00353916	GCF_001206055.1_6730_6_16_genomic.fna.gz	[92 seqs] NZ_CRAA01000001.1 Streptococcus pneumoniae strain SMRU688, whole genome shotgun sequence [...]
+0.719686	1/1000	435	0.00353916	GCF_900170315.1_Hermans-1638_genomic.fna.gz	[343 seqs] NZ_FWTO01000342.1 Streptococcus pneumoniae isolate Hermans-1638, whole genome shotgun sequence [...]
+0.719686	1/1000	435	0.00353916	GCF_002871495.1_ASM287149v1_genomic.fna.gz	[41 seqs] NZ_PNGD01000001.1 Streptococcus sp. UMB0029 ERR1203613.17957_1_25.1, whole genome shotgun sequence [...]
+0.719686	1/1000	433	0.00353916	GCF_900031325.1_12754_2_94_genomic.fna.gz	[36 seqs] NZ_FEIG01000001.1 Streptococcus pneumoniae strain 2842STDY5753659, whole genome shotgun sequence [...]
+0.719686	1/1000	431	0.00353916	GCF_001121785.1_7038_8_40_genomic.fna.gz	[61 seqs] NZ_CMJT01000001.1 Streptococcus pneumoniae strain SMRU2248, whole genome shotgun sequence [...]
+0.719686	1/1000	430	0.00353916	GCF_001340975.1_6753_4_6_genomic.fna.gz	[84 seqs] NZ_CICM01000001.1 Streptococcus pneumoniae strain SMRU1542, whole genome shotgun sequence [...]
+0.719686	1/1000	426	0.00353916	GCF_000940175.1_Velvet_assembly_genomic.fna.gz	[88 seqs] NZ_CEKF01000001.1 Streptococcus suis strain S97X, whole genome shotgun sequence [...]
+0.719686	1/1000	423	0.00353916	GCF_001578935.1_ASM157893v1_genomic.fna.gz	[29 seqs] NZ_KQ969521.1 Streptococcus oralis strain DD15 scaffold00001, whole genome shotgun sequence [...]
+0.719686	1/1000	421	0.00353916	GCF_002096915.1_ASM209691v1_genomic.fna.gz	[57 seqs] NZ_NCVL01000056.1 Streptococcus mitis strain OD_310347_11 s_mitis_OD_310347_11_ID_1, whole genome shotgun sequence [...]
+0.719686	1/1000	419	0.00353916	GCF_000177375.1_ASM17737v1_genomic.fna.gz	[16 seqs] NZ_ADFR01000016.1 Bulleidia extructa W1219 contig00007, whole genome shotgun sequence [...]
+0.719686	1/1000	417	0.00353916	GCF_900192665.1_6486_6_11_genomic.fna.gz	[69 seqs] NZ_FYUT01000069.1 Streptococcus pneumoniae strain UoS4371, whole genome shotgun sequence [...]
+0.719686	1/1000	415	0.00353916	GCF_001110805.1_8016_3_83_genomic.fna.gz	[72 seqs] NZ_CPRJ01000001.1 Streptococcus pneumoniae strain PN1, whole genome shotgun sequence [...]
+0.719686	1/1000	414	0.00353916	GCF_001960555.1_ViralProj361771_genomic.fna.gz	NC_032854.1 Wenling picorna-like virus 9 strain WLJQ104209 hypothetical protein gene, complete cds
+0.719686	1/1000	412	0.00353916	GCF_002862065.1_ASM286206v1_genomic.fna.gz	[6 seqs] NZ_PKJN01000001.1 Gardnerella vaginalis strain UMB0682 .16933_8_40.1, whole genome shotgun sequence [...]
+0.719686	1/1000	410	0.00353916	GCF_000862425.1_ViralProj15368_genomic.fna.gz	NC_003675.1 Rio Bravo virus, genome
+0.719686	1/1000	409	0.00353916	GCF_000709555.1_ASM70955v1_genomic.fna.gz	NZ_CP006873.1 Candidatus Walczuchella monophlebidarum isolate FNIIJ chromosome, complete genome
+0.719686	1/1000	408	0.00353916	GCF_001646015.1_ViralProj321707_genomic.fna.gz	NC_030131.1 Duck faeces associated circular DNA virus 1 isolate 7_Fec4_duck, complete sequence
+0.719686	1/1000	407	0.00353916	GCF_001925935.1_ViralProj359340_genomic.fna.gz	NC_032422.1 Shahe arthropod virus 1 strain SHWC0209c12762 hypothetical protein 1 and hypothetical protein 2 genes, complete cds
+0.719686	1/1000	405	0.00353916	GCF_002087075.1_ASM208707v1_genomic.fna.gz	[86 seqs] NZ_MWSM01000001.1 Streptococcus pseudopneumoniae ATCC BAA-960 = CCUG 49455 CCUG_49455T_0000001, whole genome shotgun sequence [...]
+0.719686	1/1000	405	0.00353916	GCF_000874325.1_ViralProj20977_genomic.fna.gz	NC_009892.1 Peach chlorotic mottle virus, complete genome
+0.719686	1/1000	4	0.00353916	GCF_900189005.1_6470_3_4_genomic.fna.gz	[54 seqs] NZ_FYGN01000054.1 Streptococcus pneumoniae strain UoS0015, whole genome shotgun sequence [...]
+0.719686	1/1000	4	0.00353916	GCF_900170345.1_PMEN_genomic.fna.gz	[346 seqs] NZ_FWSQ01000345.1 Streptococcus pneumoniae isolate PMEN-18, whole genome shotgun sequence [...]
+0.719686	1/1000	4	0.00353916	GCF_900064135.1_13414_1_77_genomic.fna.gz	[35 seqs] NZ_FHPK01000001.1 Streptococcus pneumoniae strain 2245STDY5819498, whole genome shotgun sequence [...]
+0.719686	1/1000	4	0.00353916	GCF_003061025.1_ASM306102v1_genomic.fna.gz	[624 seqs] NZ_QAIL01000094.1 Pedobacter sp. HMWF019 NODE_100_length_1981_cov_16.325594, whole genome shotgun sequence [...]
+0.719686	1/1000	4	0.00353916	GCF_002004295.1_ViralProj375043_genomic.fna.gz	NC_033698.1 Uganda S virus polyprotein gene, complete cds
+0.719686	1/1000	4	0.00353916	GCF_001939075.1_ASM193907v1_genomic.fna.gz	[19 seqs] NZ_MPTA01000001.1 Paenisporosarcina indica strain PN2 contig00001, whole genome shotgun sequence [...]
+0.719686	1/1000	4	0.00353916	GCF_001297705.1_ASM129770v1_genomic.fna.gz	[10 seqs] NZ_LIRF01000001.1 Chryseobacterium sp. ERMR1:04 map unlocalized plasmid pRK01 contig01, whole genome shotgun sequence [...]
+0.719686	1/1000	4	0.00353916	GCF_001206375.1_5242_8_7_genomic.fna.gz	[56 seqs] NZ_CRYJ01000001.1 Streptococcus pneumoniae strain BHN596, whole genome shotgun sequence [...]
+0.719686	1/1000	4	0.00353916	GCF_000885115.1_ViralProj39621_genomic.fna.gz	NC_013025.1 Circovirus-like genome RW-C, complete genome
+0.719686	1/1000	4	0.00353916	GCF_000883355.1_ViralMultiSegProj32709_genomic.fna.gz	[2 seqs] NC_011556.1 Beet cryptic virus 1 RNA 1, complete genome [...]
+0.719686	1/1000	4	0.00353916	GCF_000871325.1_ViralProj27905_genomic.fna.gz	NC_009991.1 Phlox Virus B, complete genome
+0.719686	1/1000	4	0.00353916	GCF_000844325.1_ViralProj14538_genomic.fna.gz	NC_005874.1 Zinnia leaf curl virus-associated DNA beta, complete genome
+0.719686	1/1000	4	0.00353916	GCF_000614385.1_ASM61438v1_genomic.fna.gz	[69 seqs] NZ_BAKS01000069.1 Porphyromonas macacae JCM 15984, whole genome shotgun sequence [...]
+0.719686	1/1000	4	0.00353916	GCF_000369105.1_Acin_lwof_CIP_64_10_V1_genomic.fna.gz	[16 seqs] NZ_KB851224.1 Acinetobacter lwoffii NCTC 5866 = CIP 64.10 = NIPH 512 strain CIP 64.10 acLsp-supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	4	0.00353916	GCF_000242635.2_ASM24263v3_genomic.fna.gz	NC_017770.1 Solitalea canadensis DSM 3403, complete genome
+0.719686	1/1000	4	0.00353916	GCF_000022525.1_ASM2252v1_genomic.fna.gz	NC_013009.1 Neorickettsia risticii str. Illinois, complete genome
+0.719686	1/1000	399	0.00353916	GCF_000839025.1_ViralProj14139_genomic.fna.gz	NC_002670.1 Lactococcus prophage bIL311, complete genome
+0.719686	1/1000	396	0.00353916	GCF_001128525.1_5737_3_1_genomic.fna.gz	[68 seqs] NZ_CMTR01000001.1 Streptococcus pneumoniae strain 30949, whole genome shotgun sequence [...]
+0.719686	1/1000	396	0.00353916	GCF_001115445.1_7001_1_21_genomic.fna.gz	[166 seqs] NZ_CNWH02000001.1 Streptococcus pneumoniae strain R34-3098, whole genome shotgun sequence [...]
+0.719686	1/1000	393	0.00353916	GCF_000279475.1_ASM27947v1_genomic.fna.gz	[10 seqs] NZ_ALCK01000001.1 Streptococcus pneumoniae GA04216 GA04216.contig.0, whole genome shotgun sequence [...]
+0.719686	1/1000	387	0.00353916	GCF_000701825.1_ASM70182v1_genomic.fna.gz	[43 seqs] NZ_JNJY01000001.1 Mycoplasma collis ATCC 35278 T403DRAFT_scaffold00001.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	384	0.00353916	GCF_002093575.1_ASM209357v1_genomic.fna.gz	[14 seqs] NZ_LNVH01000001.1 Streptococcus oralis subsp. tigurinus strain 859 S.tigurinus-859_Contig001, whole genome shotgun sequence [...]
+0.719686	1/1000	381	0.00353916	GCF_002563495.1_ASM256349v1_genomic.fna.gz	[6 seqs] NZ_MJIW01000001.1 Mycoplasma pneumoniae strain 303 303-1, whole genome shotgun sequence [...]
+0.719686	1/1000	379	0.00353916	GCF_002014955.1_ASM201495v1_genomic.fna.gz	[89 seqs] NZ_MUXR01000001.1 Streptococcus pseudopneumoniae strain CCUG 63747 CCUG63747_R1__paired__trimmed__paired__contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	377	0.00353916	GCF_001962115.1_ViralProj361910_genomic.fna.gz	NC_032734.1 Hubei toti-like virus 2 strain arthropodmix13450 hypothetical protein 1 and hypothetical protein 2 genes, complete cds
+0.719686	1/1000	354	0.00353916	GCF_000867905.1_ViralProj18529_genomic.fna.gz	NC_008721.2 Streptococcus phage SMP, complete genome
+0.719686	1/1000	350	0.00353916	GCF_000927335.1_ViralProj265914_genomic.fna.gz	NC_025393.1 Arboretum virus isolate Lo-121, complete genome
+0.719686	1/1000	348	0.00353916	GCF_001281045.1_ASM128104v1_genomic.fna.gz	NZ_CP012622.1 Spiroplasma cantharicola strain CC-1, complete genome
+0.719686	1/1000	336	0.00353916	GCF_000941055.1_ASM94105v1_genomic.fna.gz	NZ_CP007202.1 Siansivirga zeaxanthinifaciens CC-SAMT-1, complete genome
+0.719686	1/1000	325	0.00353916	GCF_000923955.1_ViralProj256085_genomic.fna.gz	NC_024497.1 Lymantria dispar iflavirus 1 isolate Ames, complete genome
+0.719686	1/1000	323	0.00353916	GCF_002094005.1_ASM209400v1_genomic.fna.gz	[13 seqs] NZ_LXOU01000001.1 Streptococcus salivarius strain 85-06 S24 SAS2401000001, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_900194535.1_14937_1_25_genomic.fna.gz	[35 seqs] NZ_FZBV01000034.1 Streptococcus pneumoniae strain 3063STDY5861174, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_900192655.1_6486_6_13_genomic.fna.gz	[44 seqs] NZ_FYUP01000040.1 Streptococcus pneumoniae strain UoS4373, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_900089575.1_P17_genomic.fna.gz	[131 seqs] NZ_FLNT01000131.1 Hydrotalea flava isolate 3, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_900059695.1_12291_5_6_genomic.fna.gz	[19 seqs] NZ_FHLR01000001.1 Streptococcus pneumoniae strain 2245STDY5699121, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_900054905.1_6972_8_37_genomic.fna.gz	[28 seqs] NZ_FIWT01000001.1 Streptococcus pneumoniae strain A31918, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_900025265.1_12673_7_46_genomic.fna.gz	[33 seqs] NZ_FDCX01000001.1 Streptococcus pneumoniae strain 2842STDY5753227, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_003149115.1_ASM314911v1_genomic.fna.gz	[9 seqs] NZ_QGDR01000006.1 Lactobacillus mucosae strain AGR63 BV56DRAFT_unitig_0_quiver.6, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_002979735.1_ASM297973v1_genomic.fna.gz	[37 seqs] NZ_PCPN01000001.1 Pseudomonas sp. MYb3 MYb3_1, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_002260845.1_ASM226084v1_genomic.fna.gz	[20 seqs] NZ_BEDT01000001.1 Lactococcus reticulitermitis strain Rs-Y01, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_002224645.1_ASM222464v1_genomic.fna.gz	NZ_CP022121.1 Dehalobacterium formicoaceticum strain DMC chromosome, complete genome
+0.719686	1/1000	3	0.00353916	GCF_002219865.1_ViralProj394320_genomic.fna.gz	NC_035191.1 Wencheng Sm shrew coronavirus isolate Xingguo-101 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds
+0.719686	1/1000	3	0.00353916	GCF_002096735.1_ASM209673v1_genomic.fna.gz	[17 seqs] NZ_NCVC01000017.1 Streptococcus mitis strain RH_8961_10 s_mitis_RH_8961_10_ID_1, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_002091395.1_ASM209139v1_genomic.fna.gz	[7 seqs] NZ_AP017913.1 Candidatus Azobacteroides pseudotrichonymphae DNA, chromosome: I, complete genome, phylotype ProJPt-1 [...]
+0.719686	1/1000	3	0.00353916	GCF_001754545.1_ViralMultiSegProj344319_genomic.fna.gz	[3 seqs] NC_031221.1 Shuangao Insect Virus 1 strain QSA02 RNA-dependent RNA polymerase (L) gene, complete cds [...]
+0.719686	1/1000	3	0.00353916	GCF_001719685.1_ASM171968v1_genomic.fna.gz	[229 seqs] NZ_MDXL01000001.1 Streptococcus pneumoniae strain 21320-19F 21320-19F_contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_001581615.1_ASM158161v1_genomic.fna.gz	[216 seqs] NZ_LJWJ01000001.1 Streptococcus pneumoniae strain NTPn 38 NTPn38_contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_001504895.1_ViralProj307884_genomic.fna.gz	NC_028878.1 Mycobacterium phage Archie, complete genome
+0.719686	1/1000	3	0.00353916	GCF_001168225.1_5381_2_5_genomic.fna.gz	[62 seqs] NZ_CPPI01000001.1 Streptococcus pneumoniae strain 09B04807, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_001156605.1_7011_3_17_genomic.fna.gz	[52 seqs] NZ_CMDH01000001.1 Streptococcus pneumoniae strain SMRU2753, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_000889455.1_ViralMultiSegProj60383_genomic.fna.gz	[10 seqs] NC_014714.1 Southern rice black-streaked dwarf virus segment 1, complete genome [...]
+0.719686	1/1000	3	0.00353916	GCF_000867525.1_ViralProj17487_genomic.fna.gz	NC_008292.1 Passiflora latent carlavirus, complete genome
+0.719686	1/1000	3	0.00353916	GCF_000471625.1_PsAq1.0_genomic.fna.gz	[38 seqs] NZ_AUSW01000001.1 Psychrobacter aquaticus CMS 56 contig00026, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_000336695.1_ASM33669v1_genomic.fna.gz	[167 seqs] NZ_AOMC01000001.1 Halococcus morrhuae DSM 1307 contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_000287355.1_ASM28735v1_genomic.fna.gz	NC_018420.1 Secondary endosymbiont of Heteropsylla cubana, complete genome
+0.719686	1/1000	3	0.00353916	GCF_000173115.1_ASM17311v1_genomic.fna.gz	[21 seqs] NZ_ABVW01000021.1 Flavobacteria bacterium MS024-3C ctg68, whole genome shotgun sequence [...]
+0.719686	1/1000	3	0.00353916	GCF_000063605.1_ASM6360v1_genomic.fna.gz	NC_009497.1 Mycoplasma agalactiae PG2 chromosome, complete sequence
+0.719686	1/1000	296	0.00353916	GCF_001501675.1_ViralProj307835_genomic.fna.gz	NC_028962.1 Staphylococcus phage phiIPLA-C1C, complete genome
+0.719686	1/1000	292	0.00353916	GCF_001179965.1_CLC_assembled_contigs_genomic.fna.gz	[63 seqs] NZ_CVSH01000001.1 Candidatus Pelagibacter ubique strain SCGC AAA795-E22, whole genome shotgun sequence [...]
+0.719686	1/1000	288	0.00353916	GCF_000906255.1_ViralProj196418_genomic.fna.gz	NC_020899.1 Hana virus strain A4/CI/2004, complete genome
+0.719686	1/1000	257	0.00353916	GCF_000193795.1_ASM19379v2_genomic.fna.gz	[132 seqs] NZ_AEPI01000132.1 Neisseria lactamica NS19 contig00132, whole genome shotgun sequence [...]
+0.719686	1/1000	249	0.00353916	GCF_001461065.3_ViralProj304422_genomic.fna.gz	NC_028466.3 Botrytis cinerea negative-stranded RNA virus 1 RdRp gene for RNA dependent RNA polymerase, isolate HAZ3-9
+0.719686	1/1000	247	0.00353916	GCF_000870825.1_ViralProj19781_genomic.fna.gz	NC_009546.1 Mimosa yellow leaf curl virus DNA-A, complete sequence
+0.719686	1/1000	2	0.00353916	GCF_900232945.1_PRJEB22715_genomic.fna.gz	[13 seqs] NZ_OCTU01000012.1 Urinacoccus sp. Marseille-P3926, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_900188965.1_6470_3_13_genomic.fna.gz	[53 seqs] NZ_FYFE01000053.1 Streptococcus pneumoniae strain UoS0058, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_900171045.1_Hermans-1134_genomic.fna.gz	[320 seqs] NZ_FWQN01000314.1 Streptococcus pneumoniae isolate Hermans-1134, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_900129605.1_IMG-taxon_2695420961_annotated_assembly_genomic.fna.gz	[35 seqs] NZ_FQWH01000034.1 Flavobacterium johnsoniae strain DSM 6792, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_900112155.1_IMG-taxon_2593339152_annotated_assembly_genomic.fna.gz	[103 seqs] NZ_FOKQ01000103.1 Ruminococcus albus strain AR67, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_900110245.1_IMG-taxon_2599185237_annotated_assembly_genomic.fna.gz	[39 seqs] NZ_FOCZ01000038.1 Niastella yeongjuensis strain DSM 17621, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_900053255.1_3850_8_8_genomic.fna.gz	[94 seqs] NZ_FIVV01000001.1 Streptococcus pneumoniae strain B16221X, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_003020865.1_ASM302086v1_genomic.fna.gz	[6 seqs] NZ_PUEU01000001.1 Staphylococcus pasteuri strain 65WT Contig_1_len_706974, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002999655.1_ASM299965v1_genomic.fna.gz	[35 seqs] NZ_PVTB01000001.1 Streptococcus anginosus strain OUP12 oup12.s2-trimmed-pair1.paired_contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002961305.1_ASM296130v1_genomic.fna.gz	[989 seqs] NZ_POLL01000001.1 Streptococcus suis strain 1225 SS_1225_Contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002915305.1_ASM291530v1_genomic.fna.gz	[485 seqs] NZ_PQCL01000001.1 Bacillus sp. MBGLi97 Scaffold_1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002866345.1_ASM286634v1_genomic.fna.gz	[198 seqs] NZ_LTCN01000001.1 Streptococcus pneumoniae strain NTPn 138 NTPn_138_contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002860905.1_ASM286090v1_genomic.fna.gz	[19 seqs] NZ_PKIG01000001.1 Streptococcus oralis subsp. dentisani strain UMB0832 .16933_8_21.1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002860885.1_ASM286088v1_genomic.fna.gz	[14 seqs] NZ_PKIF01000001.1 Streptococcus oralis subsp. dentisani strain UMB0008 .16933_8_27.1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002813575.1_ASM281357v1_genomic.fna.gz	[9 seqs] NZ_CP024785.1 Nostoc flagelliforme CCNUN1 chromosome, complete genome [...]
+0.719686	1/1000	2	0.00353916	GCF_002802865.1_ASM280286v1_genomic.fna.gz	[23 seqs] NZ_PGLQ01000010.1 Bifidobacterium sp. TRE D NODE_10_length_83592_cov_55.247644, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002374915.1_ASM237491v1_genomic.fna.gz	NC_031757.1 Polyomavirus sp. isolate poly-CA1, complete genome
+0.719686	1/1000	2	0.00353916	GCF_002251735.1_ASM225173v1_genomic.fna.gz	[35 seqs] NZ_NOXS01000007.1 Elstera cyanobacteriorum strain TH019 C459, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002165305.1_ASM216530v1_genomic.fna.gz	[116 seqs] NZ_NHRN01000100.1 Acinetobacter sp. WCHA55 NODE_100_length_833_cov_3276.57, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002127225.1_ASM212722v1_genomic.fna.gz	[9 seqs] NZ_NFUR01000001.1 Sphingomonas sp. IBVSS2 contig000001, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002096895.1_ASM209689v1_genomic.fna.gz	[20 seqs] NZ_NCVI01000020.1 Streptococcus mitis strain RH_17024_08 s_mitis_RH_17024_08_ID_1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002096215.1_ASM209621v1_genomic.fna.gz	[14 seqs] NZ_NCUC01000014.1 Streptococcus oralis subsp. tigurinus strain OD_348934_12 s_oralis_OD_348934_12_ID_1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002017935.1_ASM201793v1_genomic.fna.gz	[17 seqs] NZ_MUFW01000001.1 Flavobacterium sp. LM4 Flavobacterium_sp_LM4_contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_002006795.1_ASM200679v1_genomic.fna.gz	[74 seqs] NZ_MVDN01000001.1 Wohlfahrtiimonas populi strain 34C10-3-10 scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001966575.1_ViralProj362171_genomic.fna.gz	NC_032741.1 Hubei tombus-like virus 39 strain WGML9144 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds
+0.719686	1/1000	2	0.00353916	GCF_001814835.1_ASM181483v1_genomic.fna.gz	[59 seqs] NZ_KV818030.1 Streptococcus sp. HMSC072D07 Scaffold0, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001814045.1_ASM181404v1_genomic.fna.gz	[38 seqs] NZ_KV814667.1 Streptococcus sp. HMSC057F04 Scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001690675.1_ASM169067v1_genomic.fna.gz	[124 seqs] NZ_LZHR01000001.1 Gilliamella apicola strain Occ4-3 Gilliamella_apicola_Occ4-3_contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001663675.1_ASM166367v1_genomic.fna.gz	[8 seqs] NZ_CP014873.1 Lactobacillus backii strain TMW 1.1989 chromosome, complete genome [...]
+0.719686	1/1000	2	0.00353916	GCF_001637485.1_ASM163748v1_genomic.fna.gz	[95 seqs] NZ_LQQK01000001.1 Streptococcus pneumoniae strain CCUG 35180 contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001589655.1_ViralProj314669_genomic.fna.gz	NC_029591.1 Lake Sarah-associated circular virus-36 isolate LSaCV-36-LSGA-2013, complete sequence
+0.719686	1/1000	2	0.00353916	GCF_001589555.1_ViralProj314648_genomic.fna.gz	NC_029590.1 Lake Sarah-associated circular virus-12 isolate LSaCV-12-LSCO-2013, complete sequence
+0.719686	1/1000	2	0.00353916	GCF_001581715.1_ASM158171v1_genomic.fna.gz	[101 seqs] NZ_LJWP01000001.1 Streptococcus pneumoniae strain NTPn 46 NTPn46_contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001551245.1_ViralProj310905_genomic.fna.gz	NC_029088.1 Elderberry carlavirus D isolate EBCVD, complete genome
+0.719686	1/1000	2	0.00353916	GCF_001498995.1_M5D4_genomic.fna.gz	NZ_FBQV01000001.1 Campylobacter coli isolate M5D4, whole genome shotgun sequence
+0.719686	1/1000	2	0.00353916	GCF_001482285.1_ASM148228v1_genomic.fna.gz	[56 seqs] NZ_LOEP01000001.1 Haloferax sp. Q22 scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001447885.1_ASM144788v1_genomic.fna.gz	NZ_CP013211.1 Candidatus Nasuia deltocephalinicola strain PUNC, complete genome
+0.719686	1/1000	2	0.00353916	GCF_001405995.1_14207_7_39_genomic.fna.gz	[94 seqs] NZ_CZAZ01000001.1 Hungatella hathewayi strain 2789STDY5834916, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001344115.1_6925_5_6_genomic.fna.gz	[55 seqs] NZ_CFEM01000001.1 Streptococcus pneumoniae strain SMRU2166, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001336775.1_6259_5_19_genomic.fna.gz	[73 seqs] NZ_CFDV01000001.1 Streptococcus pneumoniae strain 19B, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001304655.1_ASM130465v1_genomic.fna.gz	[188 seqs] NZ_LJHJ01000001.1 Streptococcus pseudopneumoniae strain 276-03 1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001286805.1_Kallipyga_gabonensis_genomic.fna.gz	[2 seqs] NZ_CXYV01000001.1 Kallipyga gabonensis strain GM4, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001163285.1_6246_4_17_genomic.fna.gz	[89 seqs] NZ_CPOV01000001.1 Streptococcus pneumoniae strain 3900-06, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001141605.1_5756_5_8_genomic.fna.gz	[87 seqs] NZ_CMVT01000001.1 Streptococcus pneumoniae strain 0272, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001121565.1_6259_6_22_genomic.fna.gz	[449 seqs] NZ_CKAN01000001.1 Streptococcus pneumoniae strain type strain: N, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001083465.1_6680_6_19_genomic.fna.gz	[37 seqs] NZ_CKQL01000001.1 Streptococcus pneumoniae strain SMRU955, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001070405.1_ASM107040v1_genomic.fna.gz	[78 seqs] NZ_JVWA01000005.1 Streptococcus pseudopneumoniae strain 1272_SPSE 111_260_12403, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001027725.1_ASM102772v1_genomic.fna.gz	[89 seqs] NZ_LEKS01000001.1 Flavobacterium sp. ABG contig01, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_001017035.1_ASM101703v1_genomic.fna.gz	[36 seqs] NZ_LCWC01000001.1 Streptococcus agalactiae strain GB-PW-051 ctg7180000003028, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000959885.1_ASM95988v1_genomic.fna.gz	[7 seqs] NZ_JYGJ01000001.1 Streptococcus cristatus strain CC5A TW70_contig000001, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000956175.1_ASM95617v1_genomic.fna.gz	NZ_CP011070.1 Candidatus Nitrosopumilus adriaticus strain NF5, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000955745.1_ASM95574v1_genomic.fna.gz	[2 seqs] NZ_LACO01000001.1 Caldicellulosiruptor morganii strain Rt8.B8 N908DRAFT_scf7180000000006_quiver.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000948315.1_BFA_5_A_genomic.fna.gz	[333 seqs] NZ_JYCG01000001.1 Anoxybacillus geothermalis strain ATCC BAA-2555 LG53_001, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000930675.1_ViralProj270094_genomic.fna.gz	NC_025890.1 Tortoise picornavirus strain 14-04, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000922415.1_ViralProj259982_genomic.fna.gz	NC_024768.1 Chicken picornavirus 4 isolate 5C, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000915035.1_ViralProj230580_genomic.fna.gz	NC_022990.1 Zamilon virophage complete genome
+0.719686	1/1000	2	0.00353916	GCF_000910335.1_ViralMultiSegProj210412_genomic.fna.gz	[11 seqs] NC_021625.1 Rotavirus F chicken/03V0568/DEU/2003 segment 1, complete sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000908615.1_ViralProj206488_genomic.fna.gz	NC_021343.1 Burkholderia phage ST79, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000907195.1_ViralProj198433_genomic.fna.gz	NC_021067.1 Vibrio phage helene 12B3 genomic sequence
+0.719686	1/1000	2	0.00353916	GCF_000907135.1_ViralProj196420_genomic.fna.gz	NC_020901.1 Nse virus strain F24/CI/2004, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000896355.1_ViralProj73825_genomic.fna.gz	NC_016044.1 Chilli ringspot virus, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000893255.1_ViralProj64543_genomic.fna.gz	NC_015251.1 Aeromonas phage 65, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000888975.1_ViralProj48177_genomic.fna.gz	NC_014089.1 Torque teno mini virus 5, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000875365.1_ViralMultiSegProj30181_genomic.fna.gz	[2 seqs] NC_010840.1 Tomato leaf curl Palampur virus DNA A, complete sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000871065.2_ViralProj20663_genomic.fna.gz	NC_009763.3 Staphylococcus phage tp310-3, complete sequence
+0.719686	1/1000	2	0.00353916	GCF_000868485.1_ViralProj17757_genomic.fna.gz	NC_008370.1 Lactococcus phage 712, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000866705.1_ViralProj15880_genomic.fna.gz	NC_007456.1 Enterobacteria phage K1F, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000855165.1_ViralProj15095_genomic.fna.gz	NC_002469.1 Ovine astrovirus, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000849705.1_ViralProj14601_genomic.fna.gz	NC_003050.2 Streptococcus pneumoniae bacteriophage MM1 complete genome
+0.719686	1/1000	2	0.00353916	GCF_000841625.1_ViralProj14327_genomic.fna.gz	NC_001691.1 Human papillomavirus type 50, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000841165.1_ViralProj14230_genomic.fna.gz	NC_004348.1 Enterobacteria phage ST64T, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000772955.1_ASM77295v1_genomic.fna.gz	[55 seqs] NZ_JPVO01000055.1 Lysinibacillus sinduriensis BLB-1 = JCM 15800 contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000764735.1_ASM76473v1_genomic.fna.gz	[31 seqs] NZ_BBMX01000031.1 Citrobacter farmeri GTC 1319, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000722685.1_ASM72268v1_genomic.fna.gz	[15 seqs] NZ_JPFV01000001.1 Streptococcus mitis strain SK667 gsmSK667.contig.0_1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000691725.1_FnecBFTR-2v1.0_genomic.fna.gz	[389 seqs] NZ_JAAG01000001.1 Fusobacterium necrophorum BFTR-2 contig0001, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000686885.1_ASM68688v1_genomic.fna.gz	[67 seqs] NZ_JMLU01000001.1 Flavobacterium sasangense DSM 21067 BP92DRAFT_scaffold00001.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000423765.1_ASM42376v1_genomic.fna.gz	[35 seqs] NZ_AUIP01000001.1 Streptococcus porci DSM 23759 G576DRAFT_scaffold00001.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000413475.1_Stre_inte_ATCC_27335_V1_genomic.fna.gz	[10 seqs] NZ_ATFK01000001.1 Streptococcus intermedius SK54 = ATCC 27335 acKdV-supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000364425.1_ASM36442v1_genomic.fna.gz	[14 seqs] NZ_AMWZ01000014.1 Peanut witches'-broom phytoplasma NTU2011 plasmid pPnWB2011, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000335555.1_gacin40v1.0_genomic.fna.gz	[154 seqs] NZ_AMFQ01000001.1 Acinetobacter sp. WC-743 deg7180000004307, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000317245.1_FisPCC73103_1.0_genomic.fna.gz	[524 seqs] NZ_AJLJ01000001.1 Fischerella muscicola SAG 1427-1 = PCC 73103 contig00001, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000307165.1_ASM30716v1_genomic.fna.gz	NC_018704.1 Amphibacillus xylanus NBRC 15112 DNA, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000265405.1_ASM26540v1_genomic.fna.gz	NC_018010.1 Belliella baltica DSM 15883, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000259525.1_SspSK140v1.0_genomic.fna.gz	[46 seqs] NZ_AJML01000001.1 Streptococcus sp. SK140 ctg120004772334, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000247795.1_Bos_indicus_1.0_genomic.fna.gz	[32 seqs] NC_032650.1 Bos indicus isolate QUIL7308 breed Nelore chromosome 1, Bos_indicus_1.0, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000235805.1_ASM23580v2_genomic.fna.gz	[10 seqs] NZ_AGKB01000010.1 Pediococcus acidilactici MA18/5M contig10, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000220065.1_ASM22006v1_genomic.fna.gz	NZ_AFQU01000001.1 Streptococcus sp. oral taxon 056 str. F0418 Noncontiguous_Finished_Chromosome, whole genome shotgun sequence
+0.719686	1/1000	2	0.00353916	GCF_000192865.1_ASM19286v1_genomic.fna.gz	NC_015276.1 Marinomonas mediterranea MMB-1, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000191045.1_ASM19104v1_genomic.fna.gz	NC_015185.1 Desulfurobacterium thermolithotrophum DSM 11699, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000172555.1_ASM17255v1_genomic.fna.gz	[102 seqs] NZ_ABOX02000102.1 Pedosphaera parvula Ellin514 ctg100, whole genome shotgun sequence [...]
+0.719686	1/1000	2	0.00353916	GCF_000016545.1_ASM1654v1_genomic.fna.gz	NC_009437.1 Caldicellulosiruptor saccharolyticus DSM 8903, complete genome
+0.719686	1/1000	2	0.00353916	GCF_000011605.1_ASM1160v1_genomic.fna.gz	NC_004547.2 Erwinia carotovora subsp. atroseptica SCRI1043, complete genome
+0.719686	1/1000	1945	0.00353916	GCF_000174095.1_wUni_1.0_genomic.fna.gz	[256 seqs] NZ_ACFP01000256.1 Wolbachia endosymbiont of Muscidifurax uniraptor Contig561, whole genome shotgun sequence [...]
+0.719686	1/1000	17	0.00353916	GCF_000002945.1_ASM294v2_genomic.fna.gz	[4 seqs] NC_003424.3 Schizosaccharomyces pombe chromosome I, complete sequence [...]
+0.719686	1/1000	15	0.00353916	GCF_900194755.1_13682_2_95_genomic.fna.gz	[28 seqs] NZ_FZCQ01000027.1 Streptococcus pneumoniae strain 3063STDY5801776, whole genome shotgun sequence [...]
+0.719686	1/1000	12	0.00353916	GCF_000969155.1_ViralProj280307_genomic.fna.gz	NC_026766.1 Bat polyomavirus 6d DNA, complete genome, isolate: 6d-1
+0.719686	1/1000	11	0.00353916	GCF_001444045.1_ViralProj302032_genomic.fna.gz	NC_028373.1 Shuangao lacewing virus 2 strain SCL polyprotein gene, complete cds
+0.719686	1/1000	1	0.00353916	GCF_900215265.1_IMG-taxon_2703719066_annotated_assembly_genomic.fna.gz	[90 seqs] NZ_OBDZ01000089.1 Orenia metallireducens strain MSL47, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900194595.1_13682_1_81_genomic.fna.gz	[46 seqs] NZ_FZCC01000045.1 Streptococcus pneumoniae strain 3063STDY5801762, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900193245.1_6486_8_7_genomic.fna.gz	[68 seqs] NZ_FYWU01000065.1 Streptococcus pneumoniae strain UoS5133, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900192635.1_6486_6_9_genomic.fna.gz	[40 seqs] NZ_FYUR01000040.1 Streptococcus pneumoniae strain UoS4369, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900192135.1_6512_7_1_genomic.fna.gz	[41 seqs] NZ_FYSN01000038.1 Streptococcus pneumoniae strain UoS4168, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900191905.1_6512_5_21_genomic.fna.gz	[59 seqs] NZ_FYRS01000059.1 Streptococcus pneumoniae strain UoS4082, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900191405.1_6512_3_21_genomic.fna.gz	[40 seqs] NZ_FYPY01000040.1 Streptococcus pneumoniae strain UoS3250, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900190625.1_6512_2_7_genomic.fna.gz	[59 seqs] NZ_FYMF01000059.1 Streptococcus pneumoniae strain UoS3115, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900190365.1_6512_2_2_genomic.fna.gz	[45 seqs] NZ_FYLR01000045.1 Streptococcus pneumoniae strain UoS3093, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900189825.1_6472_6_3_genomic.fna.gz	[62 seqs] NZ_FYJW01000062.1 Streptococcus pneumoniae strain UoS2051, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900189525.1_6470_6_14_genomic.fna.gz	[65 seqs] NZ_FYIS01000064.1 Streptococcus pneumoniae strain UoS0301, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900189455.1_6470_6_9_genomic.fna.gz	[71 seqs] NZ_FYIF01000070.1 Streptococcus pneumoniae strain UoS0288, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900184935.1_C.lipolyticum_CECT8621_Spades_Prokka_genomic.fna.gz	[11 seqs] NZ_FXYE01000011.1 Confluentimicrobium lipolyticum strain CECT 8621, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900176205.1_BRAD285_PRJEB202261_v1_genomic.fna.gz	NZ_LT859959.1 Bradyrhizobium sp. ORS 285 strain ORS285 genome assembly, chromosome: BRAD285
+0.719686	1/1000	1	0.00353916	GCF_900176045.1_IMG-taxon_2516493030_annotated_assembly_genomic.fna.gz	[2 seqs] NZ_FWWZ01000002.1 Nitratiruptor tergarcus DSM 16512, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900172215.1_R.meonggei_CECT8411_Spades_Prokka_genomic.fna.gz	[33 seqs] NZ_FWFP01000033.1 Ruegeria meonggei strain CECT 8411, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900170255.1_Hermans-1342_genomic.fna.gz	[236 seqs] NZ_FWUE01000235.1 Streptococcus pneumoniae isolate Hermans-1342, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900168035.1_IMG-taxon_2703719342_annotated_assembly_genomic.fna.gz	[69 seqs] NZ_FUYO01000068.1 Arcobacter marinus strain SH-4D_Col1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900156645.1_IMG-taxon_2681813511_annotated_assembly_genomic.fna.gz	[27 seqs] NZ_FTOC01000027.1 Salimicrobium flavidum strain DSM 23127, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900155525.1_Mailhella_massiliensis_genomic.fna.gz	[28 seqs] NZ_LT706925.1 Mailhella massiliensis strain Marseille-P3199, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900142525.1_IMG-taxon_2654588175_annotated_assembly_genomic.fna.gz	[63 seqs] NZ_FRBD01000063.1 Prevotella ruminicola strain KHT3, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900129805.1_IMG-taxon_2585428064_annotated_assembly_genomic.fna.gz	[96 seqs] NZ_FQWY01000095.1 Thermosyntropha lipolytica DSM 11003, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900129085.1_IMG-taxon_2582581273_annotated_assembly_genomic.fna.gz	[51 seqs] NZ_FQUF01000051.1 Atopostipes suicloacalis DSM 15692, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900115665.1_IMG-taxon_2634166314_annotated_assembly_genomic.fna.gz	[36 seqs] NZ_FOXH01000036.1 Pseudarcicella hirudinis strain E92,LMG 26720,CCM 7988, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900115425.1_IMG-taxon_2593339211_annotated_assembly_genomic.fna.gz	[57 seqs] NZ_FOWJ01000056.1 Acidaminococcus fermentans strain pGA-4, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900115305.1_IMG-taxon_2622736437_annotated_assembly_genomic.fna.gz	[23 seqs] NZ_FOVW01000005.1 Algoriphagus ornithinivorans strain DSM 15282, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900114665.1_IMG-taxon_2687453748_annotated_assembly_genomic.fna.gz	[69 seqs] NZ_FOTU01000069.1 Pseudomonas syringae strain BS2732, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900111355.1_IMG-taxon_2634166323_annotated_assembly_genomic.fna.gz	[44 seqs] NZ_FOHA01000044.1 Isobaculum melis strain DSM 13760, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900107645.1_IMG-taxon_2599185196_annotated_assembly_genomic.fna.gz	[27 seqs] NZ_FNQN01000027.1 Desulfuromusa kysingii strain DSM 7343, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900107595.1_IMG-taxon_2675903162_annotated_assembly_genomic.fna.gz	[43 seqs] NZ_FNQF01000040.1 Psychroflexus halocasei strain DSM 23581, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900106795.1_IMG-taxon_2667527447_annotated_assembly_genomic.fna.gz	[62 seqs] NZ_FNNS01000059.1 Aequorivita viscosa strain CGMCC 1.11023, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900106565.1_IMG-taxon_2693429896_annotated_assembly_genomic.fna.gz	[58 seqs] NZ_FNNJ01000058.1 Lutibacter oricola strain DSM 24956, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900105495.1_IMG-taxon_2636416079_annotated_assembly_genomic.fna.gz	[2 seqs] NZ_FNTF01000002.1 Pseudomonas frederiksbergensis strain BS3655, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900104695.1_IMG-taxon_2690316367_annotated_assembly_genomic.fna.gz	[3 seqs] NZ_FNSW01000003.1 Paenibacillus sp. GP183, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900095695.1_GB001_A1_genomic.fna.gz	[88 seqs] NZ_FMIQ01000084.1 Hafnia alvei strain GB001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900095615.1_PP176A_genomic.fna.gz	[53 seqs] NZ_FMIF01000051.1 Sporanaerobacter sp. PP17-6a isolate PP176A, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900090215.1_TRABTM_genomic.fna.gz	NZ_LT594522.1 secondary endosymbiont of Trabutina mannipara isolate TRABTM genome assembly, chromosome: I
+0.719686	1/1000	1	0.00353916	GCF_900086725.1_PRJEB13908_genomic.fna.gz	[11 seqs] NZ_LT574828.1 Bariatricus massiliensis strain AT12, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900086715.1_PRJEB13933_genomic.fna.gz	[12 seqs] NZ_FLKH01000001.1 Gracilibacillus timonensis strain Marseille-P2481, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900064915.1_14673_1_75_genomic.fna.gz	[70 seqs] NZ_FHUA01000001.1 Streptococcus pneumoniae strain 2245STDY5982504, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900060275.1_13414_2_75_genomic.fna.gz	[39 seqs] NZ_FHSJ01000001.1 Streptococcus pneumoniae strain 2245STDY5819592, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900058945.1_12291_4_29_genomic.fna.gz	[39 seqs] NZ_FHJJ01000001.1 Streptococcus pneumoniae strain 2245STDY5699054, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900056895.1_5390_5_6_genomic.fna.gz	[96 seqs] NZ_FIUW01000001.1 Streptococcus pneumoniae strain B17333, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900054885.1_7004_3_13_genomic.fna.gz	[67 seqs] NZ_FIUD01000001.1 Streptococcus pneumoniae strain B17224, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900050125.1_7004_3_55_genomic.fna.gz	[40 seqs] NZ_FIVZ01000001.1 Streptococcus pneumoniae strain C14277, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900048895.1_PRJEB12697_genomic.fna.gz	[14 seqs] NZ_LT160627.1 Neglecta timonensis strain SN17, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900044875.1_11511_8_25_genomic.fna.gz	[40 seqs] NZ_FFTR01000001.1 Streptococcus pneumoniae strain 2245STDY5609000, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900042955.1_12673_6_91_genomic.fna.gz	[43 seqs] NZ_FDAZ01000001.1 Streptococcus pneumoniae strain 2842STDY5753176, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900033545.1_12754_1_30_genomic.fna.gz	[64 seqs] NZ_FDMV01000001.1 Streptococcus pneumoniae strain 2842STDY5753499, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900031265.1_12718_5_89_genomic.fna.gz	[34 seqs] NZ_FDLO01000001.1 Streptococcus pneumoniae strain 2842STDY5753462, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900030675.1_12718_4_61_genomic.fna.gz	[26 seqs] NZ_FDHC01000001.1 Streptococcus pneumoniae strain 2842STDY5753338, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900029455.1_11861_3_76_genomic.fna.gz	[55 seqs] NZ_FCWQ01000001.1 Streptococcus pneumoniae strain 2842STDY5644303, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900024825.1_12754_2_43_genomic.fna.gz	[49 seqs] NZ_FEGH01000001.1 Streptococcus pneumoniae strain 2842STDY5753608, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900020075.1_11861_1_45_genomic.fna.gz	[28 seqs] NZ_FECX01000001.1 Streptococcus pneumoniae strain 2842STDY5643979, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_900011935.1_Peptoclostridium_difficile_genomic.fna.gz	[3976 seqs] NZ_CZZV01000001.1 Clostridioides difficile isolate VL_0086, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003240585.1_ASM324058v1_genomic.fna.gz	[85 seqs] NZ_PCDP01000079.1 Rhizobium tubonense strain CCBAU 85046 NODE_105_length_439_cov_265.981_ID_209, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003215265.1_ASM321526v1_genomic.fna.gz	NZ_CP029018.1 Candidatus Sulcia muelleri isolate SMTANJAP chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_003202885.1_ASM320288v1_genomic.fna.gz	[15 seqs] NZ_QGLS01000001.1 Snodgrassella alvi strain ESL0196 Ga0133560_101, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003195545.1_ASM319554v1_genomic.fna.gz	[134 seqs] NZ_QIYH01000100.1 Klebsiella variicola strain WUSM_KV_15 NODE_100_length_1599_cov_178.782, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003149455.1_ASM314945v1_genomic.fna.gz	[23 seqs] NZ_QFFK01000001.1 Chitinophaga sp. XJ-2 Scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003148665.1_ASM314866v1_genomic.fna.gz	[30 seqs] NZ_QGGQ01000001.1 Maribacter polysiphoniae strain DSM 23514 LX92DRAFT_scaffold00001.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003148645.1_ASM314864v1_genomic.fna.gz	[29 seqs] NZ_QGGP01000001.1 Formosa spongicola strain DSM 22637 LX78DRAFT_scaffold00001.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003114855.1_ASM311485v1_genomic.fna.gz	[24 seqs] NZ_BFBB01000001.1 Leptospira sp. YH101, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003076275.1_ASM307627v1_genomic.fna.gz	NZ_CP029064.1 Microbulbifer sp. A4B17 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_003043355.1_ASM304335v1_genomic.fna.gz	[236 seqs] NZ_PZFN01000001.1 Staphylococcus succinus strain SNUC 4324 contig001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003043095.1_ASM304309v1_genomic.fna.gz	[280 seqs] NZ_PZEI01000001.1 Staphylococcus xylosus strain SNUC 4611 contig001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003035835.1_ASM303583v1_genomic.fna.gz	[148 seqs] NZ_PYZN01000001.1 Staphylococcus cohnii strain SNUC 5710 contig001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_003003275.1_ASM300327v1_genomic.fna.gz	[80 seqs] NZ_PVTO01000001.1 Alkalibacterium olivapovliticus strain DSM 13175 Ga0180996_101, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002966495.1_ASM296649v1_genomic.fna.gz	NZ_CP016490.1 Halomonas sp. GFAJ-1 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002964115.1_ASM296411v1_genomic.fna.gz	[707 seqs] NZ_POPI01000001.1 Streptococcus suis strain 350 SS_0350_Contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002893765.1_ASM289376v1_genomic.fna.gz	NZ_CP025938.1 Tamlana sp. UJ94 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002887615.1_ASM288761v1_genomic.fna.gz	[2 seqs] NZ_CP025792.1 Vibrio jasicida 090810c chromosome 1, complete sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002886185.1_ASM288618v1_genomic.fna.gz	[11 seqs] NZ_KZ614146.1 Salipaludibacillus neizhouensis strain DSM 19794 Scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002881315.1_ASM288131v1_genomic.fna.gz	NZ_CP019809.1 Streptococcus agalactiae strain SA79, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002870075.1_Lsat_Salinas_v7_genomic.fna.gz	[11453 seqs] NW_019672047.1 Lactuca sativa cultivar Salinas unplaced genomic scaffold, Lsat_Salinas_v7 Lsat_1_v7_s_7_16, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002860865.1_ASM286086v1_genomic.fna.gz	[26 seqs] NZ_PKIE01000001.1 Streptococcus mitis strain UMB1341 .21837_8_64.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002835245.1_ASM283524v1_genomic.fna.gz	[36 seqs] NZ_PISJ01000001.1 Acinetobacter proteolyticus strain 2P01AA contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002813185.1_ASM281318v1_genomic.fna.gz	[3 seqs] NZ_PHTX01000001.1 Viridibacillus sp. OK051 Ga0115527_11, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002803945.1_ASM280394v1_genomic.fna.gz	NZ_CP024933.1 Aeromonas veronii strain X12 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002803435.1_ASM280343v1_genomic.fna.gz	[814 seqs] NZ_PHNG01000001.1 Bacillus sp. mrc49 ctg7180000046821, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002744245.1_ASM274424v1_genomic.fna.gz	[283 seqs] NZ_NKHG01000122.1 Bacillus pumilus strain 36R_ATNSAL contig00001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002734145.1_ASM273414v1_genomic.fna.gz	NZ_CP022479.1 Faecalibacterium prausnitzii strain A2165 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002549835.1_ASM254983v1_genomic.fna.gz	[2 seqs] NZ_CP022699.1 Acetobacter tropicalis strain BDGP1 chromosome, complete genome [...]
+0.719686	1/1000	1	0.00353916	GCF_002360155.1_ASM236015v1_genomic.fna.gz	[137 seqs] NZ_NSDD01000001.1 Enterococcus hirae strain 1725 contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002301705.1_ASM230170v1_genomic.fna.gz	[550 seqs] NZ_MOPV01000001.1 Clostridioides difficile strain 5539-Y/ST2 5539_contig000001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002288775.1_ViralMultiSegProj358988_genomic.fna.gz	[2 seqs] NC_032272.1 Beihai sesarmid crab virus 4 strain SCJXSX38901 RNA-dependent RNA polymerase gene, complete cds [...]
+0.719686	1/1000	1	0.00353916	GCF_002265265.1_ASM226526v1_genomic.fna.gz	[569 seqs] NZ_NOIF01000001.1 Photobacterium sanguinicancri strain CAIM 1827 CAIM1827T_001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002257505.1_ASM225750v1_genomic.fna.gz	NZ_CP022714.1 Mycoplasma hyopneumoniae strain KM014 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002252045.1_ASM225204v1_genomic.fna.gz	[16 seqs] NZ_NEFF01000001.1 Ignatzschineria sp. F8392, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002245355.1_ASM224535v1_genomic.fna.gz	[213 seqs] NZ_NOWF01000100.1 Paludifilum halophilum strain DSM 102817 NODE_100_length_437_cov_0.706452_ID_2906, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002220115.1_ASM222011v1_genomic.fna.gz	NZ_CP022392.1 Streptococcus iniae strain QMA0248 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002219705.1_ViralProj394287_genomic.fna.gz	NC_035211.1 Human fecal virus Jorvi4, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002177345.1_ASM217734v1_genomic.fna.gz	[18 seqs] NZ_NFMK01000009.1 Campylobacter jejuni strain isolate_W7 NODE_10_length_146987_cov_63.166458, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002160695.1_ASM216069v1_genomic.fna.gz	[36 seqs] NZ_NFLB01000001.1 [Clostridium] spiroforme strain An149 An149_contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002157895.1_ASM215789v1_genomic.fna.gz	NZ_CP021377.1 Oceanisphaera profunda strain SM1222 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002151675.1_ASM215167v1_genomic.fna.gz	[543 seqs] NZ_NBNV01000100.1 Bacillus sp. S1-R1J2-FB NODE_100_length_497_cov_1.07297_ID_191_pilon, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002146885.1_ASM214688v1_genomic.fna.gz	[79 seqs] NZ_NFDP01000001.1 Bacillus thuringiensis serovar graciosensis strain BGSC 4CD1 4CD1_contig000001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002146085.1_ViralProj386684_genomic.fna.gz	NC_034567.1 Goose astrovirus isolate FLX, complete sequence
+0.719686	1/1000	1	0.00353916	GCF_002140915.1_ASM214091v1_genomic.fna.gz	[3 seqs] NZ_NGKU01000001.1 Enterococcus sp. 8G7_MSG3316 scaffold00001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002140655.1_ASM214065v1_genomic.fna.gz	[25 seqs] NZ_NGLG01000001.1 Enterococcus sp. 3H8_DIV0648 scaffold00001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002139425.1_ASM213942v1_genomic.fna.gz	[88 seqs] NZ_MJJX01000001.1 Campylobacter lanienae strain RM10079 RM10079contig00001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002101395.1_ASM210139v1_genomic.fna.gz	[2 seqs] NZ_CP019706.1 Pantoea alhagi strain LTYR-11Z, complete genome [...]
+0.719686	1/1000	1	0.00353916	GCF_002096765.1_ASM209676v1_genomic.fna.gz	[51 seqs] NZ_NCVD01000051.1 Streptococcus mitis strain RH_777_07 s_mitis_RH_777_07_ID_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002096575.1_ASM209657v1_genomic.fna.gz	[10 seqs] NZ_NCUQ01000010.1 Streptococcus oralis subsp. oralis strain OD_321121_09 s_oralis_OD_321121_09_ID_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002096535.1_ASM209653v1_genomic.fna.gz	[11 seqs] NZ_NCUN01000011.1 Streptococcus oralis subsp. oralis strain RH_1735_08 s_oralis_RH_1735_08_ID_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002096455.1_ASM209645v1_genomic.fna.gz	[8 seqs] NZ_NCUL01000008.1 Streptococcus oralis subsp. oralis strain RH_50443_09 s_oralis_RH_50443_09_ID_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_002080255.1_ViralProj381657_genomic.fna.gz	NC_034252.1 Wisteria badnavirus 1 isolate ZT-1, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002073355.2_ASM207335v2_genomic.fna.gz	NZ_CP020433.2 Streptococcus intermedius strain FDAARGOS_233 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_002008615.1_ViralProj376925_genomic.fna.gz	NC_033816.1 Wuhan insect virus 12 strain arthropodmix13526 hypothetical protein gene, complete cds
+0.719686	1/1000	1	0.00353916	GCF_002004115.1_ViralProj375071_genomic.fna.gz	NC_033703.1 Xinzhou dimarhabdovirus virus 1 strain XZSJSC65538 hypothetical protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001989575.1_ASM198957v1_genomic.fna.gz	NZ_CP019573.1 Auricoccus indicus strain S31 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001989435.1_ASM198943v1_genomic.fna.gz	NZ_CP018345.1 Prochlorococcus sp. RS01 genome
+0.719686	1/1000	1	0.00353916	GCF_001984705.1_ASM198470v1_genomic.fna.gz	[43 seqs] NZ_MSPT01000001.1 Streptococcus azizii strain 12-5291 1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001975985.1_ASM197598v1_genomic.fna.gz	[30 seqs] NZ_MTQF01000001.1 [Flexibacter] sp. ATCC 35103 contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001974395.1_ViralMultiSegProj368936_genomic.fna.gz	[2 seqs] NC_033490.1 Wuhan insect virus 15 strain WHCCII13252 RNA-dependent RNA polymerase gene, complete cds [...]
+0.719686	1/1000	1	0.00353916	GCF_001974215.1_ViralMultiSegProj368931_genomic.fna.gz	[2 seqs] NC_033491.1 Wuhan insect virus 21 strain WHCCII13077 hypothetical protein 1 and hypothetical protein 2 genes, complete cds [...]
+0.719686	1/1000	1	0.00353916	GCF_001970345.1_ViralProj362924_genomic.fna.gz	NC_033444.1 Wenzhou tombus-like virus 9 strain WZSLuoI85212 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001968985.1_ASM196898v1_genomic.fna.gz	[62 seqs] NZ_MOEN01000010.1 Desulfurobacterium indicum strain K6013 contig10_length_48599_cov_307.833, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001968715.1_ViralProj361674_genomic.fna.gz	NC_033141.1 Hubei picorna-like virus 80 strain WHCCII10252 hypothetical protein gene, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001968555.1_ViralProj361642_genomic.fna.gz	NC_032743.1 Hubei picorna-like virus 54 strain ZCM19837 hypothetical protein gene, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001967375.1_ViralProj361620_genomic.fna.gz	NC_032973.1 Hubei picorna-like virus 75 strain WGML145097 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, hypothetical protein 4, and hypothetical protein 5 genes, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001961635.1_ViralProj361965_genomic.fna.gz	NC_033031.1 Beihai weivirus-like virus 1 strain BWBFG40821 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001960855.1_ViralProj361831_genomic.fna.gz	NC_032940.1 Shahe picorna-like virus 1 strain SHWC13622 hypothetical protein 1 and hypothetical protein 2 genes, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001959755.1_ViralProj361730_genomic.fna.gz	NC_033041.1 Wenzhou picorna-like virus 20 strain WZSBei68985 hypothetical protein 1 and hypothetical protein 2 genes, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001959495.1_ViralProj361862_genomic.fna.gz	NC_033187.1 Sanxia tombus-like virus 2 strain SXXX29202 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001958995.1_ViralProj361760_genomic.fna.gz	NC_032827.1 Wenzhou bivalvia virus 1 strain beimix75829 hypothetical protein gene, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001957495.1_ViralProj361635_genomic.fna.gz	NC_033003.1 Hubei picorna-like virus 61 strain mosHB235903 hypothetical protein gene, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001939115.1_ASM193911v1_genomic.fna.gz	[77 seqs] NZ_MQTZ01000006.1 Leptolyngbya sp. 'hensonii' Contig_103, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001935525.1_ViralProj359907_genomic.fna.gz	NC_032545.1 Beihai picorna-like virus 32 strain BHNXC41402 hypothetical protein gene, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001935285.1_ViralProj359888_genomic.fna.gz	NC_032589.1 Beihai picorna-like virus 101 strain BHBJDX18559 hypothetical protein 1 and hypothetical protein 2 genes, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001926315.1_ViralMultiSegProj359329_genomic.fna.gz	[3 seqs] NC_032514.1 Wuhan pillworm virus 1 strain WHSFII20185 RNA-dependent RNA polymerase gene, complete cds [...]
+0.719686	1/1000	1	0.00353916	GCF_001926175.1_ViralMultiSegProj359289_genomic.fna.gz	[2 seqs] NC_032500.1 Beihai partiti-like virus 2 strain BHZY60797 segment Seg 1 RdRp gene, complete cds [...]
+0.719686	1/1000	1	0.00353916	GCF_001923195.1_ViralProj358925_genomic.fna.gz	NC_032215.1 Hubei myriapoda virus 4 strain WGML147816 hypothetical protein 1 and hypothetical protein 2 genes, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001909365.1_ASM190936v1_genomic.fna.gz	[67 seqs] NZ_MQSA01000001.1 Streptococcus pneumoniae strain MMC_A01 contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001877035.1_ASM187703v1_genomic.fna.gz	[2 seqs] NZ_CP015756.1 Clostridium estertheticum subsp. estertheticum strain DSM 8809, complete genome [...]
+0.719686	1/1000	1	0.00353916	GCF_001875585.1_BATSymA_genomic.fna.gz	[1281 seqs] NZ_MIQH01000001.1 Bathymodiolus thermophilus thioautotrophic gill symbiont strain BAT/CrabSpa'14 BATSymA_Scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001856115.1_ASM185611v1_genomic.fna.gz	[67 seqs] NZ_MBMU01000001.1 Planococcus faecalis strain CECT 8759 1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001815805.1_ASM181580v1_genomic.fna.gz	[68 seqs] NZ_KV821982.1 Streptococcus sp. HMSC072D05 Scaffold3, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001813685.1_ASM181368v1_genomic.fna.gz	[26 seqs] NZ_KV813681.1 Rothia sp. HMSC061E04 Scaffold0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001813525.1_ASM181352v1_genomic.fna.gz	[51 seqs] NZ_KV812811.1 Streptococcus sp. HMSC065C01 Scaffold0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001810825.1_ASM181082v1_genomic.fna.gz	[38 seqs] NZ_KV802699.1 Streptococcus sp. HMSC076C08 Scaffold0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001808705.1_ASM180870v1_genomic.fna.gz	[101 seqs] NZ_KV794218.1 Streptococcus sp. HMSC074B11 Scaffold5, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001758685.1_ASM175868v1_genomic.fna.gz	[150 seqs] NZ_LRHY01000001.1 Janthinobacterium sp. HH100 JAB2_contig000001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001754705.1_ViralProj344606_genomic.fna.gz	NC_031260.1 Enterococcus phage Ec-ZZ2, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001754205.1_ViralMultiSegProj344593_genomic.fna.gz	[3 seqs] NC_031291.1 Wenzhou Tick Virus strain TS1-2 RNA-dependent RNA polymerase (L) gene, complete cds [...]
+0.719686	1/1000	1	0.00353916	GCF_001746175.1_ViralProj344222_genomic.fna.gz	NC_031055.1 Bacillus phage PfEFR-5, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001745655.1_ViralProj344107_genomic.fna.gz	NC_031032.1 Bacillus phage Stitch, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001736255.1_ViralProj343487_genomic.fna.gz	NC_030919.1 Salmonella phage 118970_sal4, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001730365.1_ASM173036v1_genomic.fna.gz	[19 seqs] NZ_MIKB01000001.1 Enterococcus quebecensis strain LMG 26306 1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001725875.1_ViralMultiSegProj342649_genomic.fna.gz	[2 seqs] NC_030889.1 Arabidopsis halleri partitivirus 1 genomic RNA, segment 1, complete sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001708305.1_ASM170830v1_genomic.fna.gz	NZ_CP016953.1 Streptococcus himalayensis strain HTS2 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001708185.1_ASM170818v1_genomic.fna.gz	[49 seqs] NZ_MDDN01000001.1 Lysinibacillus xylanilyticus strain SR-86 contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001705475.1_ASM170547v1_genomic.fna.gz	[87 seqs] NZ_MCNR01000001.1 Lactobacillus animalis strain P38 Contig_001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001698165.1_ASM169816v1_genomic.fna.gz	NZ_CP016602.1 Lactobacillus curvatus strain WiKim52 chromosome, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001696615.1_ASM169661v1_genomic.fna.gz	[4010 seqs] NZ_MBPQ01000001.1 Acinetobacter sp. WCHA34 NODE_1000_length_279_cov_0.722772_ID_35516, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001693475.1_ASM169347v1_genomic.fna.gz	[71 seqs] NZ_MAUH01000001.1 Chryseobacterium sp. CBo1 contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001687475.1_ASM168747v1_genomic.fna.gz	[39 seqs] NZ_LUKK01000001.1 Campylobacter hepaticus strain HV10 scaffold_0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001685035.1_ASM168503v1_genomic.fna.gz	[20 seqs] NZ_MAYV01000001.1 Bacillus sp. FJAT-27986 scaffolf1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001684975.1_ASM168497v1_genomic.fna.gz	[51 seqs] NZ_MAYH01000001.1 Chryseobacterium artocarpi strain UTM-3 scaffold_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001683375.1_ASM168337v1_genomic.fna.gz	[3 seqs] NZ_CP016207.1 Streptococcus sp. oral taxon 064 strain W10853 sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001682195.1_ASM168219v1_genomic.fna.gz	[3 seqs] NZ_CP003560.1 Flammeovirga sp. MY04 chromosome 1, complete sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001677985.1_ASM167798v1_genomic.fna.gz	[132 seqs] NZ_LZRJ01000001.1 Solibacillus silvestris strain MROC3 scaffold1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001655055.1_Phe35613_DRAFTv1_genomic.fna.gz	[74 seqs] NZ_LXEW01000001.1 Providencia heimbachae ATCC 35613 Sequence00001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001653975.1_ASM165397v1_genomic.fna.gz	[2 seqs] NZ_CP014639.1 Chlamydia sp. 2742-308 genome [...]
+0.719686	1/1000	1	0.00353916	GCF_001652585.1_ASM165258v1_genomic.fna.gz	[61 seqs] NZ_LWLG01000001.1 Thermosulfurimonas dismutans strain S95 contig00001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001650315.1_ASM165031v1_genomic.fna.gz	[49 seqs] NZ_LVJM01000001.1 Streptococcus sp. CCUG 49591 contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001636135.1_ASM163613v1_genomic.fna.gz	[247 seqs] NZ_LTEA01000177.1 Pediococcus damnosus strain BM-PD14610 scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001629865.1_ViralProj319114_genomic.fna.gz	NC_029905.1 Enterovirus SEV-gx, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001592185.1_ASM159218v1_genomic.fna.gz	[393 seqs] NZ_BCWL01000001.1 Bergeriella denitrificans NBRC 102155, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001590095.1_ViralProj314630_genomic.fna.gz	NC_029637.1 Lake Sarah-associated circular virus-23 isolate LSaCV-23-LSMU-2013, complete sequence
+0.719686	1/1000	1	0.00353916	GCF_001589955.1_ViralProj314666_genomic.fna.gz	NC_029598.1 Lake Sarah-associated circular virus-39 isolate LSaCV-39-LSGA-2013, complete sequence
+0.719686	1/1000	1	0.00353916	GCF_001589095.1_ASM158909v1_genomic.fna.gz	[53 seqs] NZ_LAWR01000001.1 Streptococcus gordonii strain SK184 Contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001588825.1_ASM158882v1_genomic.fna.gz	[44 seqs] NZ_LAWC01000001.1 Streptococcus oralis subsp. tigurinus strain DGIIBVI contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001588605.1_ASM158860v1_genomic.fna.gz	[61 seqs] NZ_LROV01000001.1 Streptococcus mitis strain M3-4 contig00001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001585675.1_ASM158567v1_genomic.fna.gz	[66 seqs] NZ_LJMJ01000001.1 Streptococcus pneumoniae strain ND2232 ND2232_ctg_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001579645.1_ASM157964v1_genomic.fna.gz	[56 seqs] NZ_CM003841.1 Streptococcus infantis strain DD18 plasmid unnamed, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001578535.1_ASM157853v1_genomic.fna.gz	[28 seqs] NZ_LTBM01000001.1 Candidatus Phytoplasma oryzae isolate Mbita1 Pmin.contig.0_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001577755.1_ASM157775v1_genomic.fna.gz	NZ_CP010776.1 Rufibacter sp. DG15C, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001576855.1_ViralProj313224_genomic.fna.gz	NC_029306.1 Marine RNA virus PAL128, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001550945.1_ViralProj310911_genomic.fna.gz	NC_029116.1 Clostridium phage phiCDHM13 complete genome
+0.719686	1/1000	1	0.00353916	GCF_001547735.1_ASM154773v1_genomic.fna.gz	NZ_AP013035.1 Thermosulfidibacter takaii ABI70S6 DNA, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001546835.1_ASM154683v2_genomic.fna.gz	[78 seqs] NZ_KQ971228.1 Streptococcus salivarius strain GED7778A Scaffold0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001543105.1_ASM154310v1_genomic.fna.gz	NZ_CP014159.1 Aerococcus christensenii strain CCUG28831, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001514535.1_ASM151453v1_genomic.fna.gz	[3 seqs] NZ_BCNO01000001.1 Thermodesulfovibrio aggregans strain TGE-P1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001513715.1_ASM151371v1_genomic.fna.gz	NZ_CP013860.1 Spiroplasma turonicum strain Tab4c, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001510875.1_ASM151087v1_genomic.fna.gz	[433 seqs] NZ_LNTP01000001.1 Flavobacterium psychrophilum strain 11754 contig__1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001504215.1_ViralProj307910_genomic.fna.gz	NC_028805.1 Brevibacillus phage Jenst, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001503475.1_ViralProj307923_genomic.fna.gz	NC_028841.1 Bacteriophage Lily, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001492375.1_H063720401_genomic.fna.gz	[31 seqs] NZ_FBPO01000001.1 Campylobacter coli isolate H063720401, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001490875.1_2012_195088_8_genomic.fna.gz	[175 seqs] NZ_CWNB01000001.1 Listeria monocytogenes isolate LM69, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001484935.1_ASM148493v1_genomic.fna.gz	[9 seqs] NZ_CP010350.1 Acinetobacter johnsonii XBB1, complete genome [...]
+0.719686	1/1000	1	0.00353916	GCF_001477545.1_Pneu_cari_B80_V3_genomic.fna.gz	[62 seqs] NW_017264713.1 Pneumocystis carinii B80 chromosome Unknown supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001470815.1_ViralProj306364_genomic.fna.gz	NC_028659.1 Klebsiella phage vB_KpnM_KB57, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001470775.1_ViralProj306349_genomic.fna.gz	NC_028666.1 Streptococcus phage Str-PAP-1, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001470155.1_ViralProj306298_genomic.fna.gz	NC_028676.1 Sinorhizobium phage phiM9, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001465505.1_ViralProj305765_genomic.fna.gz	NC_028650.1 Rat bufavirus SY-2015 isolate 791102, partial genome
+0.719686	1/1000	1	0.00353916	GCF_001461345.1_ViralProj304917_genomic.fna.gz	NC_028489.1 Daeseongdong virus 2 strain A12.2549/ROK/2012, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001438885.1_ASM143888v1_genomic.fna.gz	[9 seqs] NZ_JQCP01000001.1 Atopobium rimae strain DSM 7090 Scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001436805.1_ASM143680v1_genomic.fna.gz	[100 seqs] NZ_JQAT01000001.1 Lactobacillus selangorensis strain ATCC BAA-66 Scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001418345.1_ASM141834v1_genomic.fna.gz	[16 seqs] NZ_LIPW01000001.1 Idiomarina woesei strain DSM 27808 DSM_27808_01, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001401365.1_ViralProj299179_genomic.fna.gz	NC_028095.1 Torulaspora delbrueckii dsRNA Mbarr-1 killer virus strain EX1180 Kbarr-1 killer toxin gene, complete cds
+0.719686	1/1000	1	0.00353916	GCF_001344355.1_6823_4_1_genomic.fna.gz	[94 seqs] NZ_CGYF01000001.1 Streptococcus pneumoniae strain SMRU1921, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001336695.1_6259_8_20_genomic.fna.gz	[645 seqs] NZ_CGVR01000001.1 Streptococcus pneumoniae strain type strain: N, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001336135.1_6593_4_14_genomic.fna.gz	[75 seqs] NZ_CGVS01000001.1 Streptococcus pneumoniae strain 21, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001316065.1_ASM131606v1_genomic.fna.gz	[41 seqs] NZ_BBBZ01000001.1 Aeropyrum camini SY1 = JCM 12091, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001305855.1_ASM130585v1_genomic.fna.gz	[98 seqs] NZ_LIXZ01000001.1 Bacillus vietnamensis strain UCD-SED5 scaffold_0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001302395.1_ASM130239v1_genomic.fna.gz	[2 seqs] NZ_LDJD01000001.1 Listeria monocytogenes strain L64 Scaffold_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001300015.1_7001_1_22_genomic.fna.gz	[154 seqs] NZ_CFIP02000001.1 Streptococcus pneumoniae strain R34-3099, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001299895.1_7001_1_23_genomic.fna.gz	[159 seqs] NZ_CHWV02000001.1 Streptococcus pneumoniae strain R34-3100, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001282725.1_Malnutritionisia_massiliensis_genomic.fna.gz	[14 seqs] NZ_LN876574.1 Inediibacterium massiliense strain Mt12, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001281695.1_ASM128169v1_genomic.fna.gz	[13 seqs] NZ_LJIE01000001.1 Bacterium 336/3 strain 336/3 bac336_Scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001208845.1_5242_7_5_genomic.fna.gz	[47 seqs] NZ_CRYH01000001.1 Streptococcus pneumoniae strain BHN583, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001208365.1_6730_7_7_genomic.fna.gz	[104 seqs] NZ_CRAZ01000001.1 Streptococcus pneumoniae strain SMRU703, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001207135.1_6710_7_22_genomic.fna.gz	[50 seqs] NZ_CQVG01000001.1 Streptococcus pneumoniae strain SMRU1390, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001199495.1_ASM119949v1_genomic.fna.gz	[75 seqs] NZ_LFYS01000001.1 Mycoplasma sp. HU2014 HU2014_scaffold01, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001189595.1_ASM118959v1_genomic.fna.gz	[98 seqs] NZ_LGVG01000001.1 Achromobacter spanius strain CGMCC9173 V6_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001185005.2_ViralMultiSegProj290358_genomic.fna.gz	[9 seqs] NC_027567.1 Lutzomyia reovirus 1 isolate piaui segment RNA-dependent RNA polymerase RNA-dependent RNA polymerase gene, complete cds [...]
+0.719686	1/1000	1	0.00353916	GCF_001182825.2_ASM118282v2_genomic.fna.gz	[5 seqs] NZ_LFYO02000002.1 Streptococcus sp. X13SY08 scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001168425.1_6930_7_12_genomic.fna.gz	[100 seqs] NZ_CNAK01000001.1 Streptococcus pneumoniae strain 0149A, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001162385.1_7553_4_19_genomic.fna.gz	[140 seqs] NZ_CNXX02000001.1 Streptococcus pneumoniae strain ND6140 isolate 28PCJ, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001158285.1_5366_6_11_genomic.fna.gz	[112 seqs] NZ_CPUT01000001.1 Streptococcus pneumoniae strain 08B09703, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001150865.1_6925_8_9_genomic.fna.gz	[46 seqs] NZ_CLKF01000001.1 Streptococcus pneumoniae strain SMRU2529, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001145165.1_6631_2_9_genomic.fna.gz	[39 seqs] NZ_CKHW01000001.1 Streptococcus pneumoniae strain type strain: N, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001136645.1_6730_3_8_genomic.fna.gz	[51 seqs] NZ_CQYK01000001.1 Streptococcus pneumoniae strain SMRU608, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001133525.1_6630_7_17_genomic.fna.gz	[35 seqs] NZ_CQES01000001.1 Streptococcus agalactiae strain IT-NI-032, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001129565.1_6631_2_1_genomic.fna.gz	[56 seqs] NZ_CKHF01000001.1 Streptococcus pneumoniae strain 16F, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001125985.1_6246_3_22_genomic.fna.gz	[60 seqs] NZ_CPUB01000001.1 Streptococcus pneumoniae strain LMG1561, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001124305.1_6736_6_9_genomic.fna.gz	[43 seqs] NZ_CRGX01000001.1 Streptococcus pneumoniae strain SMRU1257, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001122505.1_7622_4_21_genomic.fna.gz	[123 seqs] NZ_CODP02000001.1 Streptococcus pneumoniae strain LE4058 isolate LIT4Q, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001119545.1_6237_8_18_genomic.fna.gz	[285 seqs] NZ_CPRN01000001.1 Streptococcus pneumoniae strain S-161, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001114725.1_5919_1_5_genomic.fna.gz	[117 seqs] NZ_CMWP01000001.1 Streptococcus pneumoniae strain 0119, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001105085.1_7622_2_30_genomic.fna.gz	[130 seqs] NZ_COAZ02000001.1 Streptococcus pneumoniae strain BR1086 isolate IB8MW, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001099865.1_6714_7_9_genomic.fna.gz	[121 seqs] NZ_CIMP01000001.1 Streptococcus pneumoniae strain SMRU753, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001092545.1_6631_1_15_genomic.fna.gz	[61 seqs] NZ_CKGM01000001.1 Streptococcus pneumoniae strain 33C, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001084045.1_7038_4_8_genomic.fna.gz	[40 seqs] NZ_CMGS01000001.1 Streptococcus pneumoniae strain SMRU2936, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001074565.1_ASM107456v1_genomic.fna.gz	[72 seqs] NZ_JUQX01000008.1 Streptococcus pseudopneumoniae strain 843_SPSE 105_10838_197946, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001073735.1_ASM107373v1_genomic.fna.gz	[121 seqs] NZ_JUYP01000024.1 Streptococcus parasanguinis strain 65_SPAR 113_5973_78183, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001072435.1_ASM107243v1_genomic.fna.gz	[54 seqs] NZ_JVKP01000004.1 Streptococcus parasanguinis strain 349_SPAR 102_63535_1787007, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001072385.1_ASM107238v1_genomic.fna.gz	[29 seqs] NZ_JVKU01000001.1 Streptococcus sp. 343_SSPC 231_217_10864, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001071715.1_ASM107171v1_genomic.fna.gz	[30 seqs] NZ_JVQE01000003.1 Streptococcus oralis strain 201_SPSE 110_114573_2369821, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001070805.1_ASM107080v1_genomic.fna.gz	[66 seqs] NZ_JVNG01000005.1 Streptococcus pseudopneumoniae strain 277_SPSE 146_200_10270, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001070375.1_ASM107037v1_genomic.fna.gz	[83 seqs] NZ_JVYJ01000028.1 Streptococcus mitis strain 1217_SPSE 101_1083_18898, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001068925.1_ASM106892v1_genomic.fna.gz	[156 seqs] NZ_JVWP01000057.1 Streptococcus pseudopneumoniae strain 126_SPSE 1002_25681_249638, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_001041815.1_ViralProj287979_genomic.fna.gz	NC_027379.1 Proteus phage PM 85, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001029245.1_ASM102924v1_genomic.fna.gz	NZ_CP011855.1 Spiroplasma atrichopogonis strain GNAT3597, complete genome
+0.719686	1/1000	1	0.00353916	GCF_001027865.1_ASM102786v1_genomic.fna.gz	[275 seqs] NZ_JTDO01000001.1 Neisseria arctica strain KH1503 contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000988325.1_ASM98832v1_genomic.fna.gz	[44 seqs] NZ_LBGU01000018.1 Sphingobacterium sp. Ag1 JX05_contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000969645.2_ASM96964v2_genomic.fna.gz	NZ_CP014222.1 Janthinobacterium sp. B9-8, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000967665.1_S3726_genomic.fna.gz	[100 seqs] NZ_JXYC01000001.1 Marinomonas sp. S3726 contig0001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000964595.1_ASM96459v1_genomic.fna.gz	[47 seqs] NZ_LANP01000001.1 Orientia chuto str. Dubai goc_prodigal.contig.0_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000959945.1_ASM95994v1_genomic.fna.gz	[11 seqs] NZ_JYGM01000001.1 Streptococcus oralis subsp. oralis strain COL85/1862 TZ87_contig000001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000959895.1_ASM95989v1_genomic.fna.gz	[5 seqs] NZ_JYGK01000001.1 Streptococcus cristatus strain CR3 TZ85_contig000001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000943315.1_Velvet_assembly_genomic.fna.gz	[132 seqs] NZ_CEIE01000001.1 Streptococcus suis strain LS9R, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000927215.1_ViralProj265890_genomic.fna.gz	NC_025391.1 Almpiwar virus isolate MRM4059, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000926455.1_ViralProj264919_genomic.fna.gz	NC_025362.1 Xiburema virus isolate XIBV/BE AR 362159, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000925075.1_ViralProj266790_genomic.fna.gz	NC_025455.1 Synechococcus phage S-CBP2, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000923695.1_ViralProj253387_genomic.fna.gz	NC_024383.1 Listeria phage LP-083-2, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000922235.1_ViralProj255795_genomic.fna.gz	NC_024487.1 Drosophila subobscura Nora virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000921275.1_ViralProj253739_genomic.fna.gz	NC_024454.1 Turkey parvovirus 1078, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000921075.1_ViralProj253318_genomic.fna.gz	NC_024355.1 Staphylococcus phage 6ec, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000921015.1_ViralProj252717_genomic.fna.gz	NC_024303.1 Bovine herpesvirus 6 isolate Pennsylvania 47, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000919835.1_ViralProj244947_genomic.fna.gz	NC_024018.2 Pronghorn antelope pestivirus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000916855.1_ViralProj237470_genomic.fna.gz	NC_023426.1 Anomala cuprea entomopoxvirus DNA, complete genome, strain: CV6M
+0.719686	1/1000	1	0.00353916	GCF_000912555.1_ViralProj215670_genomic.fna.gz	NC_022096.1 Pseudomonas phage PaBG, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000911895.1_ViralProj215128_genomic.fna.gz	NC_022073.1 Hemidesmus yellow mosaic virus clone H1 segment DNA-A, complete sequence
+0.719686	1/1000	1	0.00353916	GCF_000909415.1_ViralProj209359_genomic.fna.gz	NC_021566.1 Nilaparvata lugens honeydew virus-2 genomic RNA, complete genome, isolate: Izumo
+0.719686	1/1000	1	0.00353916	GCF_000908115.1_ViralProj213073_genomic.fna.gz	NC_021855.1 Lactococcus phage phi7, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000905515.1_ViralProj195499_genomic.fna.gz	NC_020835.1 Prochlorococcus phage P-SSP10 genomic sequence
+0.719686	1/1000	1	0.00353916	GCF_000902315.1_ViralProj181072_genomic.fna.gz	NC_019444.1 Synechococcus phage S-MbCM6, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000901915.1_ViralProj181242_genomic.fna.gz	NC_019511.1 Staphylococcus phage SA11, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000900495.1_ViralProj179417_genomic.fna.gz	NC_019422.1 Clostridium phage phiMMP04, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000899655.1_ViralProj179423_genomic.fna.gz	NC_019411.1 Caulobacter phage CcrSwift, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000895815.1_ViralProj81033_genomic.fna.gz	NC_016647.1 Porcine bocavirus 5/JS677, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000894175.1_ViralProj80923_genomic.fna.gz	NC_016568.1 Helicobacter phage phiHP33, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000892975.1_ViralProj72715_genomic.fna.gz	NC_015960.1 Yoka poxvirus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000891415.1_ViralProj61781_genomic.fna.gz	NC_014896.1 Okra enation leaf curl betasatellite [India:Sonipat:EL10:2006], complete genome
+0.719686	1/1000	1	0.00353916	GCF_000891075.1_ViralProj66609_genomic.fna.gz	NC_015502.1 Banana streak UA virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000890295.1_ViralProj60137_genomic.fna.gz	NC_014665.1 Porcine parvovirus 4, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000886695.1_ViralProj39923_genomic.fna.gz	NC_013085.1 Synechococcus phage S-RSM4, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000886575.1_ViralProj39593_genomic.fna.gz	NC_013013.1 Gossypium darwinii symptomless alphasatellite DNA-alpha, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000886195.1_ViralProj42931_genomic.fna.gz	NC_013668.3 Anguillid herpesvirus 1, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000885395.1_ViralMultiSegProj41609_genomic.fna.gz	[2 seqs] NC_013462.1 Rosellinia necatrix megabirnavirus 1/W779 segment L1, complete genome [...]
+0.719686	1/1000	1	0.00353916	GCF_000883675.1_ViralProj36399_genomic.fna.gz	NC_012437.1 Duck astrovirus C-NGB, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000880895.1_ViralProj32823_genomic.fna.gz	NC_011592.1 Bougainvillea spectabilis chlorotic vein-banding virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000879235.1_ViralMultiSegProj29223_genomic.fna.gz	[2 seqs] NC_010563.1 Chapare virus segment L, complete sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000873805.1_ViralProj19579_genomic.fna.gz	NC_009447.1 Burkholderia phage BcepGomr, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000868525.1_ViralProj17809_genomic.fna.gz	NC_008393.1 Pepper severe mosaic virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000868145.1_ViralProj16815_genomic.fna.gz	NC_008032.1 Capra hircus papillomavirus type 1, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000867745.1_ViralProj18071_genomic.fna.gz	NC_008552.1 Narcissus symptomless virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000866025.1_ViralProj16205_genomic.fna.gz	NC_007620.1 Menangle virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000864225.1_ViralMultiSegProj16140_genomic.fna.gz	[11 seqs] NC_007547.1 Rotavirus C segment 1, complete sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000863685.1_ViralProj15456_genomic.fna.gz	NC_001596.1 Human papillomavirus type 9, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000861625.1_ViralMultiSegProj15384_genomic.fna.gz	[2 seqs] NC_003799.1 Squash mosaic virus RNA 1, complete sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000861465.1_ViralProj15349_genomic.fna.gz	NC_003606.1 Johnsongrass mosaic virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000860925.1_ViralMultiSegProj15397_genomic.fna.gz	[2 seqs] NC_003791.1 Cycas necrotic stunt virus RNA 1, complete sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000857525.1_ViralProj15243_genomic.fna.gz	NC_001463.1 Caprine arthritis-encephalitis virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000857285.1_ViralProj15191_genomic.fna.gz	NC_004086.1 Sulfolobus islandicus rod-shaped virus 2, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000856405.1_ViralProj14996_genomic.fna.gz	NC_002815.2 Cactus virus X, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000850105.1_ViralProj14686_genomic.fna.gz	NC_001940.1 Feline leukemia virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000847985.1_ViralProj14594_genomic.fna.gz	NC_001739.2 Soybean chlorotic mottle virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000847645.1_ViralMultiSegProj14692_genomic.fna.gz	[6 seqs] NC_002323.1 Rice grassy stunt virus RNA 1, complete sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000845325.1_ViralProj14384_genomic.fna.gz	NC_005948.1 Vibrio phage Vf33, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000844705.1_ViralProj14436_genomic.fna.gz	NC_002190.2 Infectious hypodermal and hematopoietic necrosis virus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000844405.1_ViralMultiSegProj14556_genomic.fna.gz	[30 seqs] NC_006633.1 Cotesia congregata virus complete genome, segment Circle1 [...]
+0.719686	1/1000	1	0.00353916	GCF_000844105.1_ViralProj14481_genomic.fna.gz	NC_005839.2 Agrotis segetum granulovirus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000840385.1_ViralProj14233_genomic.fna.gz	NC_004450.1 Taro bacilliform virus complete genome
+0.719686	1/1000	1	0.00353916	GCF_000836825.1_ViralProj14017_genomic.fna.gz	NC_001442.1 Bovine polyomavirus, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000798955.1_ZOR0006.1_genomic.fna.gz	[93 seqs] NZ_JTLC01000001.1 Firmicutes bacterium ZOR0006 L989_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000765695.1_ASM76569v1_genomic.fna.gz	[83 seqs] NZ_JRPB01000002.1 Helicobacter sp. MIT 11-5569 CONTIG_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000763135.1_ASM76313v1_genomic.fna.gz	[140 seqs] NZ_JRPR01000001.1 Helicobacter jaachi strain MIT 09-6949 CONTIG_4, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000760905.1_R_fas_A21d2_genomic.fna.gz	[30 seqs] NZ_JMFA01000001.1 Rhodococcus fascians A21d2 contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000754265.1_ASM75426v1_genomic.fna.gz	NZ_CP008985.1 Candidatus Baumannia cicadellinicola strain BGSS, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000723465.1_Rb803_genomic.fna.gz	[2 seqs] NZ_HF545616.1 Ruminococcus bicirculans chromosome I, complete genome [...]
+0.719686	1/1000	1	0.00353916	GCF_000722765.1_ASM72276v1_genomic.fna.gz	[7 seqs] NZ_JPFX01000001.1 Streptococcus mitis strain SK637 gsmSK637.contig.0_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000722695.1_ASM72269v1_genomic.fna.gz	[27 seqs] NZ_JPFU01000001.1 Streptococcus mitis strain SK629 gsmSK629.contig.0_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000714435.1_Exiguobacterium_alkaliphilum_genomic.fna.gz	[72 seqs] NZ_JJMW01000001.1 Exiguobacterium alkaliphilum 12/1 HybridContig22, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000701845.1_ASM70184v1_genomic.fna.gz	[29 seqs] NZ_JNJZ01000001.1 Mycoplasma columborale ATCC 29258 T404DRAFT_scaffold00001.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000701265.1_ASM70126v1_genomic.fna.gz	[16 seqs] NZ_JNIA01000001.1 Legionella wadsworthii DSM 21896 = ATCC 33877 BU07DRAFT_scaffold00010.10_C, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000691805.2_ASM69180v2_genomic.fna.gz	[70 seqs] NZ_DF820484.1 Weissella oryzae SG25, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000688295.1_ASM68829v1_genomic.fna.gz	[20 seqs] NZ_JHZF01000001.1 Pseudooceanicola nanhaiensis DSM 18065 Q344DRAFT_scaffold00010.10_C, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000686585.1_ASM68658v1_genomic.fna.gz	[6 seqs] NZ_JMKY01000001.1 Mycoplasma lipofaciens ATCC 35015 T388DRAFT_scaffold00001.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000620845.1_ASM62084v1_genomic.fna.gz	[2 seqs] NZ_KK211189.1 Exiguobacterium marinum DSM 16307 P400DRAFT_scaffold00001.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000620125.1_ASM62012v1_genomic.fna.gz	[85 seqs] NZ_JHVL01000001.1 Clostridiisalibacter paucivorans DSM 22131 Q326DRAFT_scaffold00001.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000613845.1_ASM61384v1_genomic.fna.gz	[49 seqs] NZ_BAJT01000049.1 Asaia astilbis JCM 15831, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000568695.2_ASM56869v2_genomic.fna.gz	[50 seqs] NZ_CP004217.2 Borrelia miyamotoi FR64b, complete genome [...]
+0.719686	1/1000	1	0.00353916	GCF_000523355.1_LebetimonasJS170_genomic.fna.gz	[5 seqs] NZ_ATHU01000001.1 Lebetimonas sp. JS170 JS170contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000519185.1_ASM51918v1_genomic.fna.gz	[113 seqs] NZ_JAFA01000001.1 Paraburkholderia nodosa DSM 21604 A3CWDRAFT_scaffold_0.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000506765.1_Sm.str27_7_v1.0_genomic.fna.gz	[54 seqs] NZ_AYRS01000001.1 Streptococcus mitis 27/7 Sm_27_7contig00001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000506685.1_Spspn.str22725_v1.0_genomic.fna.gz	[117 seqs] NZ_AYRO01000001.1 Streptococcus pseudopneumoniae 22725 Spspn_22725contig00001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000499845.1_PhaVulg1_0_genomic.fna.gz	[708 seqs] NC_023759.1 Phaseolus vulgaris cultivar G19833 chromosome 1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000478505.2_Pseu_sp_HPB0071_V1_genomic.fna.gz	[9 seqs] NZ_KI517367.1 Pseudomonas sp. HPB0071 aczIi-supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000474115.1_ASM47411v1_genomic.fna.gz	[52 seqs] NZ_BASW01000052.1 Streptococcus anginosus 1505, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000469465.1_ASM46946v1_genomic.fna.gz	[89 seqs] NZ_KI271788.1 Gemella bergeriae ATCC 700627 Scaffold0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000466685.1_UNSWCS_genomic.fna.gz	[177 seqs] NZ_ANNG01000001.1 Campylobacter concisus UNSWCS Contig_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000466385.1_ASM46638v1_genomic.fna.gz	[286 seqs] NZ_KE952647.1 Aneurinibacillus aneurinilyticus ATCC 12856 Scaffold0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000441115.1_version1_genomic.fna.gz	[85 seqs] NZ_ALMI01000001.1 Streptococcus suis YS23 Contig00001, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000425725.1_ASM42572v1_genomic.fna.gz	[12 seqs] NZ_KE384439.1 Halomonas halocynthiae DSM 14573 H616DRAFT_scaffold00001.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000425665.1_ASM42566v1_genomic.fna.gz	[31 seqs] NZ_KE384431.1 Gemella cuniculi DSM 15828 H612DRAFT_scaffold00001.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000425205.1_ASM42520v1_genomic.fna.gz	[36 seqs] NZ_AULI01000001.1 Pontibacillus halophilus JSM 076056 = DSM 19796 H513DRAFT_scaffold00001.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000421345.1_ASM42134v1_genomic.fna.gz	[28 seqs] NZ_ATWV01000001.1 Treponema bryantii NK4A124 G626DRAFT_scaffold00001.1_C, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000385565.1_ASM38556v1_genomic.fna.gz	NC_021169.1 Archaeoglobus sulfaticallidus PM70-1, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000382825.1_ASM38282v1_genomic.fna.gz	[6 seqs] NZ_CAUK01000006.1 Streptococcus oralis subsp. dentisani 7747, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000380285.1_version_1.0_genomic.fna.gz	[57 seqs] NZ_AORK01000001.1 Mycoplasma yeatsii 13926 contig00007, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000378725.1_ASM37872v1_genomic.fna.gz	[21 seqs] NZ_KB900367.1 Peptoniphilus lacrimalis DSM 7455 F594DRAFT_scaffold00001.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000375325.1_Caprub1_0_genomic.fna.gz	[773 seqs] NW_006238923.1 Capsella rubella cultivar Monte Gargano unplaced genomic scaffold, Caprub1_0 scaffold_1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000374005.1_ASM37400v1_genomic.fna.gz	[38 seqs] NZ_KB893134.1 Kiloniella laminariae DSM 19542 B152DRAFT_scaffold_0.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000355675.1_ASM35567v1_genomic.fna.gz	NC_020888.1 Thalassolituus oleivorans MIL-1 complete genome
+0.719686	1/1000	1	0.00353916	GCF_000355095.2_ASM35509v2_genomic.fna.gz	[38 seqs] NZ_AQEN01000001.1 Escherichia coli P0304777.1 gecP03047771.contig.0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000348805.1_ASM34880v1_genomic.fna.gz	NC_020510.1 Blattabacterium sp. (Panesthia angustipennis spadica) str. BPAA DNA, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000346595.1_ASM34659v1_genomic.fna.gz	NC_020549.1 Candidatus Liberibacter asiaticus str. gxpsy, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000340885.1_ASM34088v1_genomic.fna.gz	[2 seqs] NC_020291.1 Clostridium saccharoperbutylacetonicum N1-4(HMT), complete genome [...]
+0.719686	1/1000	1	0.00353916	GCF_000315505.1_Veil_ratt_ACS-216-V-COL6B_V1_genomic.fna.gz	[4 seqs] NZ_JH992936.1 Veillonella seminalis ACS-216-V-Col6b supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000315445.1_Allo_otit_ATCC_51267_V1_genomic.fna.gz	[8 seqs] NZ_JH992957.1 Alloiococcus otitis ATCC 51267 supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000315295.1_Pbr_v1.0_genomic.fna.gz	[2182 seqs] NW_008988039.1 Pyrus x bretschneideri cultivar Dangshansuli unplaced genomic scaffold, Pbr_v1.0 scaffold1.0.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000307875.1_BABA1.0_genomic.fna.gz	[197 seqs] NZ_AJLS01000001.1 Bacillus bataviensis LMG 21833 contig01, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000307285.1_ASM30728v1_genomic.fna.gz	NZ_HE578956.1 Kurthia sp. Dielmo strain type strain: Dielmo, whole genome shotgun sequence
+0.719686	1/1000	1	0.00353916	GCF_000306415.1_gls454133v02_genomic.fna.gz	[144 seqs] NZ_AKWF02000144.1 Leptospira borgpetersenii serovar Pomona str. 200901868 ctg1130573510864, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000300695.1_ASM30069v1_genomic.fna.gz	[197 seqs] NZ_AKIM01000001.1 Italian clover phyllody phytoplasma str. MA1 MA-6-contig36, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000299015.1_ASM29901v1_genomic.fna.gz	NC_018630.1 Streptococcus pneumoniae gamPNI0373, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000297895.1_oyster_v9_genomic.fna.gz	[7659 seqs] NW_011934491.1 Crassostrea gigas strain 05x7-T-G4-1.051#20 unplaced genomic scaffold, oyster_v9 scaffold360, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000296795.1_ASM29679v1_genomic.fna.gz	[4 seqs] NZ_BAFH01000004.1 Candidatus Jettenia caeni, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000294755.1_VH01_genomic.fna.gz	[92 seqs] NZ_ALEF01000001.1 Virgibacillus halodenitrificans 1806 contig1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000287715.1_SoralisSK304v1.0_genomic.fna.gz	[25 seqs] NZ_ALJN01000001.1 Streptococcus oralis SK304 ctg120008662247, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000287295.1_ASM28729v1_genomic.fna.gz	NC_018417.1 Candidatus Carsonella ruddii HT isolate Thao2000, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000279775.1_ASM27977v1_genomic.fna.gz	[14 seqs] NZ_ALCQ01000001.1 Streptococcus pneumoniae GA58581 GA58581.contig.0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000278335.1_Bart_vins_Pm136co_V1_genomic.fna.gz	[7 seqs] NZ_JH725043.1 Bartonella vinsonii subsp. arupensis Pm136co supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000273625.1_PB_Fuso_sp_7_1_V1_genomic.fna.gz	[4 seqs] NZ_AKBT01000001.1 Fusobacterium nucleatum subsp. animalis 7_1 cont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000272145.2_ASM27214v2_genomic.fna.gz	[313 seqs] NZ_AJYW02000001.1 Vibrio genomosp. F6 str. FF-238 FF-238_contig_0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000263715.2_ASM26371v2_genomic.fna.gz	NZ_CM001514.1 Pseudomonas synxantha BG33R chromosome, whole genome shotgun sequence
+0.719686	1/1000	1	0.00353916	GCF_000252065.1_ASM25206v2_genomic.fna.gz	[8 seqs] NZ_AIKE01000008.1 Streptococcus pneumoniae 4075-00 4075_00.contig.7, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000251305.1_ASM25130v2_genomic.fna.gz	[18 seqs] NZ_AIJZ01000018.1 Streptococcus pneumoniae GA13499 GA13499.contig.17, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000247475.1_ASM24747v2_genomic.fna.gz	[441 seqs] NZ_AHZC01000441.1 Rhizobium sp. PDO1-076 strain PDO-076 ctg9, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000242455.2_ASM24245v3_genomic.fna.gz	[4 seqs] NC_019892.1 Singulisphaera acidiphila DSM 18658, complete genome [...]
+0.719686	1/1000	1	0.00353916	GCF_000235405.2_ASM23540v3_genomic.fna.gz	NC_017095.1 Fervidobacterium pennivorans DSM 9078, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000233165.1_ASM23316v2_genomic.fna.gz	[11 seqs] NZ_AGQD01000011.1 Streptococcus pneumoniae GA47751 GA47751.contig.10, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000232905.1_ASM23290v2_genomic.fna.gz	[12 seqs] NZ_AGPQ01000012.1 Streptococcus pneumoniae GA43380 GA43380.contig.11, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000232185.1_ASM23218v2_genomic.fna.gz	[13 seqs] NZ_AGOG01000013.1 Streptococcus pneumoniae 7286-06 7286_06.contig.12, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000225385.1_ASM22538v2_genomic.fna.gz	[6 seqs] NZ_AGBV01000006.1 Streptococcus salivarius M18 plasmid pSsal-M18, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000223315.1_ASM22331v1_genomic.fna.gz	[5 seqs] NZ_AFUS01000005.1 Parvimonas sp. oral taxon 393 str. F0440 Contig466, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000221305.1_ASM22130v1_genomic.fna.gz	[44 seqs] NZ_AFVJ01000044.1 Mycoplasma anatis 1340 contig9, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000217775.1_PPt02_genomic.fna.gz	[13 seqs] NZ_GL905390.1 Paenibacillus polymyxa ATCC 842 PPt02_scaffold1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000212815.1_ASM21281v1_genomic.fna.gz	[5 seqs] NZ_GL890985.1 Streptococcus sanguinis SK49 SCAFFOLD1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000209225.1_ASM20922v1_genomic.fna.gz	[10804 seqs] NW_001823610.1 Nematostella vectensis NEMVEscaffold_18970 genomic scaffold, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000199675.1_ASM19967v1_genomic.fna.gz	NC_014960.1 Anaerolinea thermophila UNI-1 DNA, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000194605.1_ASM19460v1_genomic.fna.gz	NC_015321.1 Fluviicola taffensis DSM 16823, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000188175.1_ASM18817v1_genomic.fna.gz	[96 seqs] NZ_GL830843.1 Phascolarctobacterium succinatutens YIT 12067 Scfld0, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000185645.1_ASM18564v1_genomic.fna.gz	[18 seqs] NZ_GL622607.1 Gemella morbillorum M424 supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000180535.1_ASM18053v1_genomic.fna.gz	[22 seqs] NZ_CACH01000022.1 Streptococcus pneumoniae SPN021198, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000178855.1_ASM17885v1_genomic.fna.gz	[10 seqs] NZ_ADVG01000010.1 Ktedonobacter racemifer DSM 44963 strain SOSP1-21 Krac_Contig197, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000171735.2_ASM17173v2_genomic.fna.gz	[27 seqs] NC_012261.1 Borrelia burgdorferi 118a plasmid 118a_cp26, complete sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000169355.1_ASM16935v1_genomic.fna.gz	[14 seqs] NZ_AAXX01000014.1 Flavobacteria bacterium BAL38 1101699887702, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000166275.1_ASM16627v1_genomic.fna.gz	NZ_CM001023.1 Algoriphagus machipongonensis strain PR1 chromosome, whole genome shotgun sequence
+0.719686	1/1000	1	0.00353916	GCF_000160095.1_ASM16009v1_genomic.fna.gz	[714 seqs] NZ_GG668320.1 Hungatella hathewayi DSM 13479 Scfld996, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000149845.2_SJ5_genomic.fna.gz	[32 seqs] NW_011627860.1 Schizosaccharomyces japonicus yFS275 unplaced genomic scaffold supercont5.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000147355.1_ASM14735v1_genomic.fna.gz	NC_014506.1 Sulfurimonas autotrophica DSM 16294, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000142905.1_TheTra_May2010_genomic.fna.gz	[131 seqs] NW_013657679.1 Thecamonas trahens ATCC 50062 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence [...]
+0.719686	1/1000	1	0.00353916	GCF_000025065.1_ASM2506v1_genomic.fna.gz	NC_013592.1 Dickeya zeae Ech586, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000021905.1_ASM2190v1_genomic.fna.gz	NC_011768.1 Desulfatibacillum alkenivorans AK-01, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000021285.1_ASM2128v1_genomic.fna.gz	NC_011653.1 Thermosipho africanus TCF52B, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000010405.1_ASM1040v1_genomic.fna.gz	NC_009465.1 Candidatus Vesicomyosocius okutanii HA DNA, complete genome
+0.719686	1/1000	1	0.00353916	GCF_000002455.1_ASM245v1_genomic.fna.gz	[4 seqs] NC_010004.1 Bigelowiella natans nucleomorph chromosome 1, complete sequence [...]
+0.719686	1/1000	10	0.00353916	GCF_001108485.1_6949_4_15_genomic.fna.gz	[67 seqs] NZ_CLQA01000001.1 Streptococcus pneumoniae strain 15B, whole genome shotgun sequence [...]
