@@ -284,3 +284,28 @@ def test_extract_species_name_variations():
 
     for classification, expected in cases:
         assert _extract_species_name(classification) == expected
+
+
+### Snippy ###
+def test_snippy(sample_report_fp):
+    sample_name = "sample1"
+    fp = sample_report_fp("snippy", sample_name, "snps.tab")
+    df = parse_tsv(fp)
+
+    assert not df.empty
+    assert "SampleID" in df.columns
+    assert "CHROM" in df.columns
+    assert "POS" in df.columns
+    assert df["SampleID"].unique().tolist() == [sample_name]
+
+
+def test_snippy_empty(tmp_path):
+    sample_name = "empty"
+    fp = tmp_path / "snippy" / sample_name / "snps.tab"
+    fp.parent.mkdir(parents=True, exist_ok=True)
+    fp.write_text("")
+
+    df = parse_tsv(fp)
+
+    assert df.empty
+    assert list(df.columns) == ["SampleID"]
