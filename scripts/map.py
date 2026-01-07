@@ -58,8 +58,8 @@ def tools_to_assembly_qc(parsed_outputs: dict[str, pd.DataFrame]) -> pd.DataFram
     df = _merge_dfs_on_sample_id(
         [df for df in [shovill_df, bakta_df, checkm_df] if not df.empty]
     )
-    return df[
-        [
+    return df.reindex(
+        columns=[
             "SampleID",
             "contig_count",
             "min_contig_coverage",
@@ -72,11 +72,11 @@ def tools_to_assembly_qc(parsed_outputs: dict[str, pd.DataFrame]) -> pd.DataFram
             "completeness",
             "contamination",
         ]
-    ]
+    )
 
 
 def tools_to_taxonomic_assignment(
-    parsed_outputs: dict[str, pd.DataFrame]
+    parsed_outputs: dict[str, pd.DataFrame],
 ) -> pd.DataFrame:
     mlst_df = parsed_outputs.get("mlst", pd.DataFrame())
     mlst_df = mlst_df.rename(
@@ -104,11 +104,11 @@ def tools_to_taxonomic_assignment(
     # Concatenate instead of merge to allow multiple classifications per sample
     dfs_to_concat = [df for df in [mlst_df, sylph_df] if not df.empty]
     if not dfs_to_concat:
-        return pd.DataFrame(columns=["SampleID"])
+        result = pd.DataFrame(columns=["SampleID"])
+    else:
+        result = pd.concat(dfs_to_concat, ignore_index=True)
 
-    return pd.concat(dfs_to_concat, ignore_index=True)[
-        ["SampleID", "classification", "comment", "tool"]
-    ]
+    return result.reindex(columns=["SampleID", "classification", "comment", "tool"])
 
 
 def tools_to_contaminant(parsed_outputs: dict[str, pd.DataFrame]) -> pd.DataFrame:
@@ -126,11 +126,11 @@ def tools_to_contaminant(parsed_outputs: dict[str, pd.DataFrame]) -> pd.DataFram
     # Use concatenation approach like taxonomic assignment for consistency
     dfs_to_concat = [df for df in [mash_df] if not df.empty]
     if not dfs_to_concat:
-        return pd.DataFrame(columns=["SampleID"])
+        result = pd.DataFrame(columns=["SampleID"])
+    else:
+        result = pd.concat(dfs_to_concat, ignore_index=True)
 
-    return pd.concat(dfs_to_concat, ignore_index=True)[
-        ["SampleID", "classification", "confidence", "tool"]
-    ]
+    return result.reindex(columns=["SampleID", "classification", "confidence", "tool"])
 
 
 def tools_to_antimicrobial(parsed_outputs: dict[str, pd.DataFrame]) -> pd.DataFrame:
@@ -147,8 +147,8 @@ def tools_to_antimicrobial(parsed_outputs: dict[str, pd.DataFrame]) -> pd.DataFr
     )
 
     df = _merge_dfs_on_sample_id([df for df in [abritamr_df] if not df.empty])
-    return df[
-        [
+    return df.reindex(
+        columns=[
             "SampleID",
             "contig_id",
             "gene_symbol",
@@ -157,7 +157,7 @@ def tools_to_antimicrobial(parsed_outputs: dict[str, pd.DataFrame]) -> pd.DataFr
             "element_type",
             "resistance_product",
         ]
-    ]
+    )
 
 
 def tools_to_model(parsed_outputs: dict[str, pd.DataFrame], model: str) -> pd.DataFrame:

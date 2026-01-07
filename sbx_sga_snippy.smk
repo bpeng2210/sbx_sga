@@ -12,7 +12,6 @@ localrules:
 rule all_sga_snippy:
     input:
         ISOLATE_FP / "reports" / "snippy.report",
-        ISOLATE_FP / "iqtree" / "core.full.aln.treefile",
 
 
 rule sga_snippy:
@@ -38,55 +37,11 @@ rule sga_snippy:
         """
 
 
-rule snippy_core:
-    input:
-        vcf=expand(ISOLATE_FP / "snippy" / "{sample}" / "snps.vcf", sample=Samples),
-        tab=expand(ISOLATE_FP / "snippy" / "{sample}" / "snps.tab", sample=Samples),
-    output:
-        ISOLATE_FP / "snippy_core" / "core.full.aln",
-    params:
-        ref=Cfg["sbx_sga"]["snippy_ref"],
-    log:
-        LOG_FP / "sga_snippy_core.log",
-    benchmark:
-        BENCHMARK_FP / "sga_snippy_core.tsv"
-    threads: 8
-    conda:
-        "envs/snippy.yml"
-    shell:
-        """
-        dirs=$(for tab in {input.tab}; do
-            if [ $(wc -l < "$tab") -gt 1 ]; then
-                echo $(dirname "$tab")
-            fi
-        done)
-
-        cd $(dirname {output}) && snippy-core --prefix core $dirs --ref {params.ref} > {log} 2>&1
-        """
-
-
-rule sga_iqtree:  # phylogeny tree
-    input:
-        ISOLATE_FP / "snippy_core" / "core.full.aln",
-    output:
-        ISOLATE_FP / "iqtree" / "core.full.aln.treefile",
-    log:
-        LOG_FP / "sga_iqtree.log",
-    benchmark:
-        BENCHMARK_FP / "sga_iqtree.tsv"
-    conda:
-        "envs/iqtree.yml"
-    shell:
-        """
-        iqtree -s {input} -m MFP -B 1000 -T AUTO -pre $(dirname {input}) -redo > {log} 2>&1
-        """
-
-
 rule snippy_summary:
     input:
-        expand(ISOLATE_FP / "snippy" / "{sample}" / "snps.tab", sample=Samples),
+        snippy=expand(ISOLATE_FP / "snippy" / "{sample}" / "snps.tab", sample=Samples),
     output:
-        ISOLATE_FP / "reports" / "snippy.report",
+        snippy=ISOLATE_FP / "reports" / "snippy.report",
     params:
         suffix="",
         header=True,
@@ -95,4 +50,4 @@ rule snippy_summary:
     benchmark:
         BENCHMARK_FP / "sga_snippy_summary.tsv"
     script:
-        "scripts/concat_files.py"
+        "scripts/summarize_snippy.py"

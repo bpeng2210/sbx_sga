@@ -109,6 +109,7 @@ def run_sunbeam(setup):
             project_dir,
             "all_sga",
             "all_sga_virus",
+            "all_sga_snippy",
             "--directory",
             tmp_path,
             "--include",

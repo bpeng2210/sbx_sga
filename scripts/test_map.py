@@ -144,3 +144,84 @@ def test_tools_to_antimicrobial():
             ]
         ]
     )
+
+
+def test_tools_handle_empty_inputs():
+    empty_parsed_outputs = {
+        "shovill": pd.DataFrame(
+            columns=[
+                "SampleID",
+                "Total_contigs",
+                "Min_coverage",
+                "Max_coverage",
+                "Total_length",
+                "Average_coverage",
+            ]
+        ),
+        "bakta": pd.DataFrame(columns=["SampleID", "GC", "N50", "CDSs"]),
+        "checkm": pd.DataFrame(columns=["SampleID", "Completeness", "Contamination"]),
+        "mash": pd.DataFrame(columns=["SampleID", "species", "hits_per_thousand"]),
+        "mlst": pd.DataFrame(
+            columns=["SampleID", "classification", "allele_assignment"]
+        ),
+        "sylph": pd.DataFrame(columns=["SampleID", "Contig_name"]),
+        "abritamr": pd.DataFrame(
+            columns=[
+                "SampleID",
+                "Contig id",
+                "Gene symbol",
+                "Sequence name",
+                "Accession of closest sequence",
+                "Element type",
+                "Subclass",
+            ]
+        ),
+    }
+
+    assembly_qc_df = tools_to_model(empty_parsed_outputs, "assembly_qc")
+    assert assembly_qc_df.empty
+    assert list(assembly_qc_df.columns) == [
+        "SampleID",
+        "contig_count",
+        "min_contig_coverage",
+        "max_contig_coverage",
+        "genome_size",
+        "avg_contig_coverage",
+        "gc_content",
+        "n50",
+        "cds",
+        "completeness",
+        "contamination",
+    ]
+
+    taxonomic_assignment_df = tools_to_model(
+        empty_parsed_outputs, "taxonomic_assignment"
+    )
+    assert taxonomic_assignment_df.empty
+    assert list(taxonomic_assignment_df.columns) == [
+        "SampleID",
+        "classification",
+        "comment",
+        "tool",
+    ]
+
+    contaminant_df = tools_to_model(empty_parsed_outputs, "contaminant")
+    assert contaminant_df.empty
+    assert list(contaminant_df.columns) == [
+        "SampleID",
+        "classification",
+        "confidence",
+        "tool",
+    ]
+
+    antimicrobial_df = tools_to_model(empty_parsed_outputs, "antimicrobial")
+    assert antimicrobial_df.empty
+    assert list(antimicrobial_df.columns) == [
+        "SampleID",
+        "contig_id",
+        "gene_symbol",
+        "gene_name",
+        "accession",
+        "element_type",
+        "resistance_product",
+    ]

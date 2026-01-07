@@ -83,9 +83,10 @@ rule sga_sylph:
     shell:
         """
     if [ $(zcat {input.rp1} | wc -l) -ge 4 ] && [ $(zcat {input.rp2} | wc -l) -ge 4 ]; then
-        sylph sketch -1 "{input.rp1}" -2 "{input.rp2}" -t 1 -d "$(dirname "{output.report}")" > "{log}" 2>&1
-        sylph profile "{params.ref}" "$(dirname "{output.report}")"/*.sylsp -t {threads} -o "{output.report}" >> "{log}" 2>&1
+        sylph sketch -1 "{input.rp1}" -2 "{input.rp2}" -t 1 -d "$(dirname "{output.report}")" &> "{log}"
+        sylph profile "{params.ref}" "$(dirname "{output.report}")"/*.sylsp -t {threads} -o "{output.report}" &>> "{log}"
     else
+        echo "Input reads are empty, creating empty sylph report" > {log}
         touch {output.report}
     fi
         """
@@ -118,6 +119,7 @@ rule sga_checkm:
             --database_path {params.ref} \\
             &> {log} || touch {output.quality_report}
         else
+            echo "Empty assembly file {input.contigs}, creating empty checkm2 quality report" > {log}
             touch {output.quality_report}
         fi
         """
@@ -127,7 +129,7 @@ rule sga_quast:
     input:
         contigs=ISOLATE_FP / "shovill" / "{sample}" / "{sample}.fa",
     output:
-        quast_dir=ISOLATE_FP / "quast" / "{sample}" / "report.tsv",
+        report=ISOLATE_FP / "quast" / "{sample}" / "report.tsv",
     log:
         LOG_FP / "sga_quast_{sample}.log",
     benchmark:
@@ -138,11 +140,12 @@ rule sga_quast:
         """
         if [ -s {input.contigs} ]; then
             quast.py \\
-                -o $(dirname {output.quast_dir}) \\
+                -o $(dirname {output.report}) \\
                 {input.contigs} \\
-                &> {log} || touch {output.quast_dir}
+                > {log} 2>&1 || touch {output.report}
         else
-            touch {output.quast_dir}
+            echo "Empty assembly file {input.contigs}, creating empty quast report" > {log}
+            touch {output.report}
         fi
         """
 
@@ -172,6 +175,7 @@ rule sga_mash:
             mash screen -w -p 8 {params.ref} {output.agg} > {output.win} 2> {log}
             sort -gr {output.win} > {output.sort} 2>> {log}
         else
+            echo "Empty aggregated reads file {output.agg}, creating empty mash output files" > {log}
             touch {output.win} {output.sort}
         fi
         """
@@ -194,6 +198,7 @@ rule sga_mlst:
         if [ -s {input.contigs} ]; then
             mlst --nopath {input.contigs} > {output.mlst} 2> {log}
         else
+            echo "Empty assembly file {input.contigs}, creating empty mlst output" > {log}
             mkdir -p $(dirname {output.mlst})
             touch {output.mlst}
         fi
@@ -224,8 +229,9 @@ rule sga_bakta:
             --output $(dirname {output.bakta}) \\
             --prefix {wildcards.sample} \\
             --skip-plot {input.contigs} \\
-            &> {log}
+            > {log} 2>&1
         else
+            echo "Empty assembly file {input.contigs}, creating empty bakta output" > {log}
             touch {output.bakta}
         fi
         """
@@ -249,9 +255,10 @@ rule sga_abritamr:
             abritamr run \\
                 --contigs {input.contigs} \\
                 --prefix {wildcards.sample} \\
-                &> {log}
+                > {log} 2>&1
             mv {wildcards.sample} $(dirname $(dirname {output.abritamr}))
         else
+            echo "Writing empty AMR output file because assembly is empty" > {log}
             mkdir -p $(dirname {output.abritamr})
             touch {output.abritamr}
         fi     
@@ -289,6 +296,7 @@ rule sga_report:
                 "abritamr",
             ],
         ),
+        assemblies=ISOLATE_FP / "assemblies.tsv",
         assembly_qcs=ISOLATE_FP / "assembly_qcs.tsv",
         taxonomic_assignments=ISOLATE_FP / "taxonomic_assignments.tsv",
         contaminants=ISOLATE_FP / "contaminants.tsv",
@@ -299,6 +307,7 @@ rule sga_report:
         mash_median_multiplicity_factor=Cfg["sbx_sga"][
             "mash_median_multiplicity_factor"
         ],
+        sga_version=SBX_SGA_VERSION,
     log:
         LOG_FP / "sga_report.log",
     benchmark:

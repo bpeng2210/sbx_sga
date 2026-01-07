@@ -8,6 +8,7 @@ from .parse import (
     parse_fasta,
     parse_mlst,
     parse_sylph,
+    _extract_species_name,
 )
 
 
@@ -40,6 +41,30 @@ def test_amr(sample_report_fp):
     assert "Contig id" in df.columns
     assert "Gene symbol" in df.columns
     assert "Subclass" in df.columns
+
+
+def test_parse_tsv_empty(tmp_path):
+    sample_name = "empty"
+    fp = tmp_path / "abritamr" / sample_name / "amrfinder.out"
+    fp.parent.mkdir(parents=True, exist_ok=True)
+    fp.write_text("")
+
+    df = parse_tsv(fp)
+
+    assert df.empty
+    assert list(df.columns) == ["SampleID"]
+
+
+def test_parse_tsv_header_only(tmp_path):
+    sample_name = "header_only"
+    fp = tmp_path / "abritamr" / sample_name / "amrfinder.out"
+    fp.parent.mkdir(parents=True, exist_ok=True)
+    fp.write_text("ColA\tColB\n")
+
+    df = parse_tsv(fp)
+
+    assert df.empty
+    assert list(df.columns) == ["SampleID", "ColA", "ColB"]
 
 
 ### Bakta ###
@@ -129,6 +154,20 @@ def test_parse_mash_marc_235(sample_report_fp):
     assert df["species"].iloc[0] == "Serratia marcescens"
 
 
+def test_parse_mash_empty(tmp_path):
+    sample_name = "empty"
+    fp = tmp_path / "mash" / sample_name / "sample.tab"
+    fp.parent.mkdir(parents=True, exist_ok=True)
+    fp.write_text("")
+
+    df = parse_mash_winning_sorted_tab(
+        fp, identity=0.85, hits=100, median_multiplicity_factor=0.05
+    )
+
+    assert df.empty
+    assert "SampleID" in df.columns
+
+
 ### MLST ###
 def test_mlst_1076(sample_report_fp):
     sample_name = "marc.ast.1076"
@@ -145,6 +184,18 @@ def test_mlst_1076(sample_report_fp):
         df["allele_assignment"].iloc[0]
         == "adk(6) fumC(4) gyrB(4) icd(16) mdh(24) purA(8) recA(14)"
     )
+
+
+def test_mlst_empty(tmp_path):
+    sample_name = "empty"
+    fp = tmp_path / "mlst" / sample_name / "sample.mlst"
+    fp.parent.mkdir(parents=True, exist_ok=True)
+    fp.write_text("")
+
+    df = parse_mlst(fp)
+
+    assert df.empty
+    assert list(df.columns) == ["SampleID", "classification", "allele_assignment"]
 
 
 ### Shovill ###
@@ -193,3 +244,63 @@ def test_parse_tsv_sylph_s234_ori(sample_report_fp):
     assert "Contig_name" in df.columns
     assert df["SampleID"].unique().tolist() == [sample_name]
     assert df.shape[0] > 5
+
+
+def test_parse_sylph_empty(tmp_path):
+    sample_name = "empty"
+    fp = tmp_path / "sylph" / sample_name / "sample.tsv"
+    fp.parent.mkdir(parents=True, exist_ok=True)
+    fp.write_text("")
+
+    df = parse_sylph(fp)
+
+    assert df.empty
+    assert list(df.columns) == ["SampleID", "Contig_name", "species"]
+
+
+def test_extract_species_name_variations():
+    cases = [
+        (
+            "BMZV01000001.1 Kocuria marina KCTC 9943 DNA, sequence01, whole genome shotgun sequence",
+            "Kocuria marina",
+        ),
+        (
+            "CP007494.1 Bordetella holmesii ATCC 51541, complete genome",
+            "Bordetella holmesii",
+        ),
+        (
+            "NZ_SCMK01000010.1 Sphingomonas sp. 1F27F7B NODE_10_length_165275_cov_23.714959, whole genome shotgun sequence",
+            "Sphingomonas sp.",
+        ),
+        (
+            "[4 seqs] NC_013922.1 Natrialba magadii ATCC 43099, complete genome [...]",
+            "Natrialba magadii",
+        ),
+        (
+            "NC_013947.1 Stackebrandtia nassauensis DSM 44728, complete genome",
+            "Stackebrandtia nassauensis",
+        ),
+    ]
+
+    for classification, expected in cases:
+        assert _extract_species_name(classification) == expected
+
+
+### Snippy ###
+def test_snippy(sample_report_fp):
+    sample_name = "sample1"
+    fp = sample_report_fp("snippy", sample_name, "snps.tab")
+    df = parse_tsv(fp)
+
+    assert not df.empty
+    assert "SampleID" in df.columns
+    assert "CHROM" in df.columns
+    assert "POS" in df.columns
+
+
+def test_snippy_empty(sample_report_fp):
+    sample_name = "sample2"
+    fp = sample_report_fp("snippy", sample_name, "empty.tab")
+    df = parse_tsv(fp)
+
+    assert df.empty
