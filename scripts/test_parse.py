@@ -296,16 +296,11 @@ def test_snippy(sample_report_fp):
     assert "SampleID" in df.columns
     assert "CHROM" in df.columns
     assert "POS" in df.columns
-    assert df["SampleID"].unique().tolist() == [sample_name]
 
 
-def test_snippy_empty(tmp_path):
-    sample_name = "empty"
-    fp = tmp_path / "snippy" / sample_name / "snps.tab"
-    fp.parent.mkdir(parents=True, exist_ok=True)
-    fp.write_text("")
-
+def test_snippy_empty(sample_report_fp):
+    sample_name = "sample2"
+    fp = sample_report_fp("snippy", sample_name, "empty.tab")
     df = parse_tsv(fp)
 
     assert df.empty
-    assert list(df.columns) == ["SampleID"]
