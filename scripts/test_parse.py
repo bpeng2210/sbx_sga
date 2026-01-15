@@ -258,6 +258,25 @@ def test_parse_sylph_empty(tmp_path):
     assert list(df.columns) == ["SampleID", "Contig_name", "species"]
 
 
+def test_parse_sylph_retains_contig_name_when_extraction_is_invalid(tmp_path):
+    sample_name = "fallback"
+    fp = tmp_path / "sylph" / sample_name / "sample.tsv"
+    fp.parent.mkdir(parents=True, exist_ok=True)
+    fp.write_text(
+        "Contig_name\tOther\n"
+        "NZ_CABFMF010000001.1 Uncultured Streptococcus sp., whole genome shotgun sequence\t1\n"
+        "NZ_ABC12345.1\t2\n"
+    )
+
+    df = parse_sylph(fp)
+
+    assert df["species"].iloc[0] == (
+        "NZ_CABFMF010000001.1 Uncultured Streptococcus sp., "
+        "whole genome shotgun sequence"
+    )
+    assert df["species"].iloc[1] == "NZ_ABC12345.1"
+
+
 def test_extract_species_name_variations():
     cases = [
         (

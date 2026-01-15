@@ -92,7 +92,7 @@ def tools_to_taxonomic_assignment(
     sylph_df = parsed_outputs.get("sylph", pd.DataFrame())
     sylph_df = sylph_df.rename(
         columns={
-            "Contig_name": "classification",
+            "species": "classification",
         }
     )
     # Add empty comment column for sylph if it doesn't exist
