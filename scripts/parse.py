@@ -94,6 +94,10 @@ def _extract_species_name(classification: str) -> str:
         )
         return ""
 
+    # Filter out classifications we don't want
+    if "phage" in species or "sp." in species:
+        return ""
+    
     return species
 
 
@@ -170,10 +174,6 @@ def parse_mash_winning_sorted_tab(
 
     # Extract species names
     df["species"] = df["full_classification"].apply(_extract_species_name)
-
-    # Filter out species names that include "phage"
-    df = df[~df["species"].str.contains("phage", case=False, na=False)]
-    df = df[~df["species"].str.contains("sp.", case=False, na=False)]
 
     # Filter by median multiplicity factor
     if df.empty:
