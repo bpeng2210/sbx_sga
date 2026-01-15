@@ -97,6 +97,18 @@ def _extract_species_name(classification: str) -> str:
     return species
 
 
+def _extract_sylph_species(contig_name: str) -> str:
+    if not contig_name or pd.isna(contig_name):
+        return ""
+
+    extracted = _extract_species_name(contig_name)
+    if not extracted:
+        return contig_name
+    if "uncultured" in extracted.lower():
+        return contig_name
+    return extracted
+
+
 def parse_mash_winning_sorted_tab(
     fp: Path, identity: float, hits: int, median_multiplicity_factor: float
 ) -> pd.DataFrame:
@@ -258,7 +270,7 @@ def parse_sylph(fp: Path) -> pd.DataFrame:
         df["species"] = pd.Series(dtype=str)
         return df[["SampleID", "Contig_name", "species"]]
 
-    df["species"] = df["Contig_name"].apply(_extract_species_name)
+    df["species"] = df["Contig_name"].apply(_extract_sylph_species)
     logger.debug("Parsed sylph dataframe", extra={"path": str(fp)})
     return df
 
