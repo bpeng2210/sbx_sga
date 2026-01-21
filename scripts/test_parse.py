@@ -126,6 +126,7 @@ def test_parse_mash_s234_ori(sample_report_fp):
     assert all(df["identity"] >= 0.85)
     assert all(df["hits_per_thousand"].apply(lambda x: int(x.split("/")[0])) >= 100)
     assert df["SampleID"].unique().tolist() == [sample_name]
+    print(df["species"])
     assert df["species"].iloc[0] == "Bacillus cereus"
     assert df["species"].iloc[1] == "Pseudomonas denitrificans"
     assert df["species"].iloc[2] == "Stenotrophomonas maltophilia"
