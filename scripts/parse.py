@@ -93,8 +93,9 @@ def _extract_species_name(classification: str) -> str:
             extra={"classification": classification, "exception": str(exc)},
         )
         return ""
-    
+
     return species
+
 
 def _extract_mash_species(contig_name: str) -> str:
     if not contig_name or pd.isna(contig_name):
@@ -102,8 +103,10 @@ def _extract_mash_species(contig_name: str) -> str:
 
     extracted = _extract_species_name(contig_name)
     # Filter out classifications we don't want
-    if "phage" in species or "sp." in species:
+    if any(term in extracted.lower() for term in ["phage", "sp."]):
         return ""
+    return extracted
+
 
 def _extract_sylph_species(contig_name: str) -> str:
     if not contig_name or pd.isna(contig_name):
@@ -112,7 +115,7 @@ def _extract_sylph_species(contig_name: str) -> str:
     extracted = _extract_species_name(contig_name)
     if not extracted:
         return contig_name
-    if "uncultured" in extracted.lower() or "phage" in extracted.lower():
+    if any(term in extracted.lower() for term in ["uncultured", "phage"]):
         return contig_name
     return extracted
 
