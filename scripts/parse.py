@@ -93,13 +93,17 @@ def _extract_species_name(classification: str) -> str:
             extra={"classification": classification, "exception": str(exc)},
         )
         return ""
-
-    # Filter out classifications we don't want
-    if "phage" in species or "sp." in species:
-        return ""
     
     return species
 
+def _extract_mash_species(contig_name: str) -> str:
+    if not contig_name or pd.isna(contig_name):
+        return ""
+
+    extracted = _extract_species_name(contig_name)
+    # Filter out classifications we don't want
+    if "phage" in species or "sp." in species:
+        return ""
 
 def _extract_sylph_species(contig_name: str) -> str:
     if not contig_name or pd.isna(contig_name):
@@ -108,7 +112,7 @@ def _extract_sylph_species(contig_name: str) -> str:
     extracted = _extract_species_name(contig_name)
     if not extracted:
         return contig_name
-    if "uncultured" in extracted.lower():
+    if "uncultured" in extracted.lower() or "phage" in extracted.lower():
         return contig_name
     return extracted
 
@@ -173,7 +177,7 @@ def parse_mash_winning_sorted_tab(
         )
 
     # Extract species names
-    df["species"] = df["full_classification"].apply(_extract_species_name)
+    df["species"] = df["full_classification"].apply(_extract_mash_name)
 
     # Filter by median multiplicity factor
     if df.empty:
