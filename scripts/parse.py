@@ -181,6 +181,7 @@ def parse_mash_winning_sorted_tab(
 
     # Extract species names
     df["species"] = df["full_classification"].apply(_extract_mash_species)
+    df = df[df["species"].fillna("").str.strip() != ""]
 
     # Filter by median multiplicity factor
     if df.empty:
