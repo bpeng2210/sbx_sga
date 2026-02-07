@@ -97,6 +97,29 @@ def _extract_species_name(classification: str) -> str:
     return species
 
 
+def _extract_mash_species(contig_name: str) -> str:
+    if not contig_name or pd.isna(contig_name):
+        return ""
+
+    extracted = _extract_species_name(contig_name)
+    # Filter out classifications we don't want
+    if any(term in extracted.lower() for term in ["phage", "sp."]):
+        return ""
+    return extracted
+
+
+def _extract_sylph_species(contig_name: str) -> str:
+    if not contig_name or pd.isna(contig_name):
+        return ""
+
+    extracted = _extract_species_name(contig_name)
+    if not extracted:
+        return contig_name
+    if any(term in extracted.lower() for term in ["uncultured", "phage"]):
+        return contig_name
+    return extracted
+
+
 def parse_mash_winning_sorted_tab(
     fp: Path, identity: float, hits: int, median_multiplicity_factor: float
 ) -> pd.DataFrame:
@@ -157,11 +180,8 @@ def parse_mash_winning_sorted_tab(
         )
 
     # Extract species names
-    df["species"] = df["full_classification"].apply(_extract_species_name)
-
-    # Filter out species names that include "phage"
-    df = df[~df["species"].str.contains("phage", case=False, na=False)]
-    df = df[~df["species"].str.contains("sp.", case=False, na=False)]
+    df["species"] = df["full_classification"].apply(_extract_mash_species)
+    df = df[df["species"].fillna("").str.strip() != ""]
 
     # Filter by median multiplicity factor
     if df.empty:
@@ -258,7 +278,7 @@ def parse_sylph(fp: Path) -> pd.DataFrame:
         df["species"] = pd.Series(dtype=str)
         return df[["SampleID", "Contig_name", "species"]]
 
-    df["species"] = df["Contig_name"].apply(_extract_species_name)
+    df["species"] = df["Contig_name"].apply(_extract_sylph_species)
     logger.debug("Parsed sylph dataframe", extra={"path": str(fp)})
     return df
 

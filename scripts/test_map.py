@@ -66,11 +66,11 @@ parsed_outputs = {
         [
             {
                 "SampleID": "S2",
-                "Contig_name": "schema_st_15",
+                "species": "schema_st_15",
             },
             {
                 "SampleID": "S3",
-                "Contig_name": "schema_st_25",
+                "species": "schema_st_25",
             },
         ]
     ),
@@ -164,7 +164,7 @@ def test_tools_handle_empty_inputs():
         "mlst": pd.DataFrame(
             columns=["SampleID", "classification", "allele_assignment"]
         ),
-        "sylph": pd.DataFrame(columns=["SampleID", "Contig_name"]),
+        "sylph": pd.DataFrame(columns=["SampleID", "species"]),
         "abritamr": pd.DataFrame(
             columns=[
                 "SampleID",
